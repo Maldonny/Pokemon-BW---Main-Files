@@ -13,9 +13,9 @@ Vezes que foi agradecido\xfffeVezes que foi passado por alguém
 \xf000Ȃ\x0001\x0002xf000ȁ\x0001\x0003
 São ＡＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001 \x0001
 São ＰＭ\xf000ȁ\x0001\x0000：\xf000ȁ\x0001 \x0001
-Estas a lutar \xf000ā\x0001\x0000と\xfff contra un Pokemon selvagem.
-Estas a lutar \xfffcontra um Pokemon especial.
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001と\xfffe actualmente estão a lutar.
-Estas a lutar \xfffecontra um líder de ginásio.
-Estas a lutar \xfffecontra um treinador especial.
+Está lutando \xf000ā\x0001\x0000と\xfff contra um Pokemon selvagem.
+Está lutando \xfffcontra um Pokemon especial.
+\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001と\xfffe atualmente está lutando.
+Está lutando \xfffecontra um líder de ginásio.
+Está lutando \xfffecontra um treinador especial.
 \xf000ą\x0001\x0000を\xfffeA transferir.
