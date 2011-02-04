@@ -1,6 +1,6 @@
-Parabéns em entrares no\xfffeSalão da Fama!
+Parabéns por entrar no\xfffeSalão da Fama!
 O Fim
-Parabéns por acabares\xfffeo jogo!
-A guardar...\xfffeNão desligues a consola.
-\xf000Ā\x0001\x0000\xfffeguardou o jogo!
-O jogo não pode ser guardado.
+Parabéns por acabar\xfffeo jogo!
+Salvando...\xfffeNão desligue o console.
+\xf000Ā\x0001\x0000\xfffesalvou o jogo!
+O jogo não pode ser salvado.
