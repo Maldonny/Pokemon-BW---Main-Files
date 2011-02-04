@@ -337,21 +337,21 @@ Bobby
 Bobby
 Bobby
 John
-Taka and Shige
-Taka and Shige
-Hiro and Shin
-Hiro and Shin
-Taku and Yasu
-Taku and Yasu
-Tatsu and Masa
-Katsu and Gou
-Mana and Sae
-Mana and Sae
-Amy and Yuki
-Amy and Yuki
-Mako and Kaho
-Ai and Sora
-Miku and Sae
+Taka e Shige
+Taka e Shige
+Hiro e Shin
+Hiro e Shin
+Taku e Yasu
+Taku e Yasu
+Tatsu e Masa
+Katsu e Gou
+Mana e Sae
+Mana e Sae
+Amy e Yuki
+Amy e Yuki
+Mako e Kaho
+Ai e Sora
+Miku e Sae
 Rika
 Manabu
 Kozue
@@ -446,8 +446,8 @@ Natsumi
 Kyoko
 Hitoha
 Yuko
-Haru and Chica
-Enna and Lena
+Haru e Chica
+Enna e Lena
 Genya
 Takuji
 Maiko
