@@ -1,8 +1,8 @@
 N/A
 Preto
 Branco
-Rapaz
-Rapariga
+Menino
+Menina
 Batalha
 Intercâmbio
 Cidade
@@ -13,12 +13,12 @@ Tempo
 Dinheiro
 Estilos
 Personalidade
-Fixe
+Legal
 Lindo
 Estranho
-Pokabu
-Mijumaru
-Shita-ja
+Tepig
+Oshawott
+Snivy
 Mar
 Río
 Montanha
@@ -54,7 +54,7 @@ Ciência
 Sociedade
 Treinador
 Professor Pokémon
-Equipa Plasma
+Equipe Plasma
 Pokémon
 Jogar ao ar livre
 Loja
@@ -68,14 +68,14 @@ Rap
 Classico
 Noticias
 Drama
-Comedia
-Desportos
+Comédia
+Esportes
 Anime
-Acção
+Ação
 SF
 Amor
 Suspense
-Comedia
+Comédia
 Horror
 Basebol
 Futebol
@@ -91,7 +91,7 @@ Branco
 Preto
 Fitness
 Ler
-Musica
+Música
 Filmes
 Viagem
 Cozinhar
@@ -102,32 +102,32 @@ Secretario
 Criador
 Empregado
 Govt. Oficial
-Ama
+Dona de Casa
 Artista
 Trabalho
-Podda
-Dento
-Koon
+Pod
+Dent
+Corn
 Aloe
-Arti
-Kamitsure
+Arty
+Camille
 Yacon
-Fuuro
+Flo
 Hachiku
 Iris
 Shaga
 Normal
 Fogo
 Água
-Electricidade
-Erva
+Elétrico
+Grama
 Gelo
 Luta
 Veneno
 Terra
 Voador
 Psiquico
-Insecto
+Inséto
 Rocha
 Fantasma
 Dragão
