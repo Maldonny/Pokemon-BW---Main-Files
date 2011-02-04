@@ -1,6 +1,6 @@
 No. Vistos
-No. Apanhados
-JPN
+No. Capturados
+BRA
 ENG
 FRA
 GER
@@ -14,7 +14,7 @@ Modo de Pesquisa
 Por favor introduza os critérios de pesquisa.
 Resultados de Pesquisa
 RESULTADOS\xf000Ȃ\x0001\x0000
-Seleccionar o modo de lista da Pokédex.
+Selecionar o modo de lista da Pokédex.
 Lista da primeira letra do nome.
 Lista de tipos.
 Lista por faixa de peso.
@@ -23,7 +23,7 @@ Lista por estilo de corpo.
 Lista por area.
 Nenhum Pokémon correspondente foi encontrado.
 Não foi encontrado...
-A Pesquisar...
+Pesquisando...
 Ordem
 Nome
 Tipo
@@ -39,7 +39,7 @@ Cancelar
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
 Aceitar
 Cancelar
-Numericos
+Numéricos
 A a Z
 Mais Pesado
 Mais Leve
@@ -49,11 +49,11 @@ Escuro
 Rocha
 Psíquico
 Lutador
-Erva
+Grama
 Gelo
 Fantasma
 Terra
-Eléctrico
+Elétrico
 Venenoso
 Dragão
 Normal
@@ -61,11 +61,11 @@ Aço
 Voador
 Fogo
 Água
-Insecto
+Inseto
 ーーーー
 Johto
 Kanto
-Unknown
+Desconhecido
 ーーーー
 ア
 イ
@@ -120,7 +120,7 @@ Capa de Planta
 Capa de Areia
 Capa de Lixo
 Uma Forma
-JP Pokédex
+BR Pokédex
 EN Pokédex
 FR Pokédex
 GE Pokédex
