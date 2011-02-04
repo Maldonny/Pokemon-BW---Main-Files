@@ -1,7 +1,7 @@
 ―\xfffe―\xfffe―\xfffe―\xfffe―
-The foe is physically pounded with a\xfffelong tail or a foreleg, etc.
-The foe is attacked with a sharp chop.\xfffeIt has a high critical-hit ratio.
-The foe is slapped repeatedly, back and\xfffeforth, two to five times in a row.
+Pound causa dano. Não possui \xfffeefeitos secundários.
+Karate Chop causa dano. Pode causar um\xfffeAtaque Crítico com mais facilidade do que o normal.
+DoubleSlap causa dano múltiplas vezes na mesma rodada.\xfffeHá 37,5% de chances de serem 2 ou 3 vezes,\xfffee 12,5% de chances de serem 4 ou 5.
 The foe is hit with a flurry of punches\xfffethat strike two to five times in a row.
 The foe is slugged by a punch thrown\xfffewith muscle-packed power.
 Numerous coins are hurled at the foe\xfffeto inflict damage. Money is earned after\xfffebattle.
