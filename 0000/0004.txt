@@ -1,3 +1,3 @@
-Apagar todos os dados guardados?
-Uma vez apagados os dados, nao os poderá recuperar de modo algum.\xf000븁\x0000Apagar mesmo assim os dados guardados?
-A apagar todos os dados.\xfffeNão desligue a consola.
+Excluir todos os dados salvos?
+Uma vez excluidos, os dados não poderão ser recuperados.\xf000븁\x0000Excluir mesmo assim os dados salvos?
+Excluindo todos os dados.\xfffeNão desligue o console.
