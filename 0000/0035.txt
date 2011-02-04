@@ -2,18 +2,18 @@
 Pokédex
 Pokémon
 Mochila
-Treinador 
-Guardar
+Trainer Card
+Salvar
 Opções
 　
 Chat
 　
-ずかんを　せんたくしました
-ポケモンステータスを　せんたくしました
-バッグを　せんたくしました
-トレーナーカードを　せんたくしました
-レポートを　せんたくしました
-せっていを　せんたくしました
-A escrever um relatório Pokémon.
-Relatório Pokémon\xfffeescrito com sucesso!
-Não consegue escrever um relatório durante a comunicação.
+Pokédex selecionado.
+Status do Pokémon selecionado.
+Mochila selecionada.
+Trainer Card selecionado.
+Salvar selecionado.
+Opções selecionadas.
+Salvando.
+O jogo foi salvo\xfffecom sucesso!
+Não é possível salvar durante a comunicação.
