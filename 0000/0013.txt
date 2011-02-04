@@ -1,46 +1,46 @@
 O que \xf000Ă\x0001\x0000 irá fazer?
-Por favor marca
+Por favor marque
 Tens a certeza?
 \xf000Ă\x0001\x0000 libertado!
-Bye-bye, \xf000Ă\x0001\x0000!
-A tua equipa está cheia!
-Esse é o teu último Pokemon!
-O que vais fazer com esta Caixa?
+Tchau-tchau, \xf000Ă\x0001\x0000!
+A sua equipe está cheia!
+Esse é o seu último Pokémon!
+O que irá fazer com esta Caixa?
 Mudar para que \xfffeCaixa?
-Mudar Wallpaper
-Escolher Wallpaper.
-Continuuar operações na Caixa?
+Mudar o Papel de Parede
+Escolher o Papel de Parede.
+Continuar operações na Caixa?
 Esta Caixa está cheia!
 A mochila está cheia!
 \xf000ĉ\x0001\x0000 recebido!
 \xf000ĉ\x0001\x0000 está agora equipado!
-Escolhe o Pokemon!
+Escolhe o Pokémon!
 Mover para que Caixa?
-Não está nada equipada
+Não está nada equipado
 ♂
 ♀
 Receber \xf000ĉ\x0001\x0000?
-Impossível enviar!
+Não pode enviar!
 O que fazer com \xf000ĉ\x0001\x0000?
 Mandar fora \xf000ĉ\x0001\x0000?
-Puseste \xf000ĉ\x0001\x0000 na mochila!
-Impossível equipar item.
+Colocou \xf000ĉ\x0001\x0000 na mochila!
+Item impossível de equipar.
 Por favor remova o correio!
 Ovo não pode ser liberto!
 \xf000Ă\x0001\x0000 voltou!
-Huh, falhou...
+Hum, falhou...
 Ovo não pode equipar items!
-Toca para Marcar!
-Pôe-o na Caixa!
+Toque para Marcar!
+Coloque-o na Caixa!
 Este Item pode ser comido!
 Esta caixa está cheia!
 Um item já está equipado!
 Depositar Pokémon
 Retirar Pokémon
 Mover Pokémon
-Mover Items
+Mover Itens
 Caixa de Batalha
-Pôr na cama
+Colocar na cama
 Correio não pode ser removido!
 Não é possível equipar \xf000ĉ\x0001\x0000!
 Tens correio!
@@ -48,8 +48,8 @@ O Pokémon não irá luta!
 Correio não pode ser removido!
 Não podes guardar correio aqui
 Não podes escolher um Ovo!
-Pôr \xf000Ă\x0001\x0000 a dormir?
-Este Pokemon não\xfffeparece ter sono.
+Colocar \xf000Ă\x0001\x0000 para dormir?
+Este Pokémon não\xfffeparece ter sono.
 Continuar operações na Caixa?
-A Caixa de Batalha foi trancada\xfffeOs Pokemon não podem ser removidos
+A Caixa de Batalha foi trancada\xfffeOs Pokémons não podem ser removidos.
 A Caixa de Batalha foi trancada\xfffeItem equipado não pode ser trocado
