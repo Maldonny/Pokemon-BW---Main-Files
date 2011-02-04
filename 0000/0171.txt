@@ -1,0 +1,11 @@
+Escolha um idioma.
+Tu és um rapaz? Tu és uma rapariga?
+Ligar a função wireless?
+Atenção!
+Por favor activar a comunicação wireless\xfffepara desfrutar ao máximo do jogo.\xfffePor favor, desligue-o em lugares\xfffecom as proibições de comunicação wireless\xfffecomo aeroportos e hospitais.\xfffeIsso pode ser alterado no jogo\xfffeno menu Configurações.
+Português
+Japonês
+Rapaz
+Rapariga
+Sim
+Não

@@ -1,0 +1,7 @@
+Queres ligar a C-Gear?\xfffePor favor lê o aviso em baixo.
+A ligar a C-Gear...\xfffeA conexão wireless da DS\xfffeestá a ser usada por isto.
+Queres desligar a C-Gear?\xfffePor favor lê o aviso em baixo.
+\xf000\xff00\x0001\x0001Bateria fraca!\xf000\xff00\x0001\x0000\xfffeA energia\xfffecontinua a ser utilizada mesmo após\xfffa DS estar fechada. Isto pode causar\xfffeque a bateria fique completamente sem energia.
+Erro a ligar a C-Gear\xfffePor favor\xfffeverifica a tua conexão \xfffe wireless　（５０６９９）
+Sim
+Não

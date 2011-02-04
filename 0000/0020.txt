@@ -1,0 +1,13 @@
+C-Gear
+IR
+Wireless
+GameSync
+Trade
+Battle
+Friend Code
+Card
+C-Gear>IR
+C-Gear>IR>Battle
+C-Gear>IR>Battle>Trade
+C-Gear＞GameSync
+C-Gear>Wireless

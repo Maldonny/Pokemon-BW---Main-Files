@@ -1,0 +1,6 @@
+Sim
+Não
+Esquecer um ataque!
+Manter os ataques!
+Desistir do ataque \xf000ć\x0001\x0000!
+Não desistir do \xf000ć\x0001\x0000!

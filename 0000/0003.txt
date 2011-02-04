@@ -1,0 +1,61 @@
+Queres guardar\xfffeesta batalha no teu Vs Recorder?
+Sim
+Não
+Os dados vão se perder para sempre,\xfffetens a certeza?
+Sim
+Não
+Vais substituir o teu Video de Combate anterior.\xfffeTens a certeza?
+Sim
+Não
+O teu video está a ser guardado.\xfffePor favor Aguarde!
+O teu combate foi guardado.
+Houve um erro\xfffeNão foi possivel guardar o Video.
+A esperar por um oponente\xfffe Por favor aguarde!
+O teu oponente ainda não está pronto\xfffe Por favor aguarde!
+Não podes gravar uma batalha com este oponente.
+Não podes gravar esta batalha.
+ＳＥＬＥＣＴ　ＴＩＭＥ
+\xf000ȁ\x0001\x0000xf000ȁ\x0001\x0001
+\xf000ȁ\x0001\x0001
+Recorde Anterior
+Coliseu Único\xfffeIrrestrito
+Coliseu Único\xfffeApartamento
+Coliseu Único\xfffeRodagem irrestrita
+Coliseu Único\xfffeRodagem restrita
+Coliseu Duplo\xfffeIrrestrito
+Coliseu Duplo\xfffeApartamento
+Coliseu Duplo\xfffeRodagem irrestrita
+Coliseu Duplo\xfffeRodagem restrita
+Coliseu Triplo\xfffeIrrestrito
+Coliseu Triplo\xfffeApartamento
+Coliseu Triplo\xfffeRodagem irrestrita
+Coliseu Triplo\xfffeRodagem restrita
+Coliseu Rotativo\xfffeIrrestrito
+Coliseu Rotativo\xfffepartamento
+Coliseu Rotativo\xfffeRodagem irrestita
+Coliseu Rotativo\xfffeRodagem restrita
+Coliseu Multi\xfffeIrrestrito
+Coliseu Multi\xfffeApartamento
+Coliseu Multi\xfffeRodagem irrestrita
+Coliseu Multi\xfffeRodagem restrita
+Batalha no Metro\xfffeÚnico
+Batalha no Metro\xfffeDuplo
+Batalha no Metro\xfffeMulti
+Jogos Aleatórios\xfffeÚnico
+Jogos Aleatórios\xfffeDuplo
+Jogos Aleatórios\xfffeTriplo
+Jogos Aleatórios\xfffeRotativo
+Jogos Aleatórios\xfffeMulti
+Jogo Aleatório De Avaliação\xfffeÚnico
+Jogo Aleatório De Avaliação\xfffeDuplo
+Jogo Aleatório De Avaliação\xfffeTriplo
+Jogo Aleatório De Avaliação\xfffeRotativo
+Jogo Aleatório De Avaliação\xfffeMulti
+Queres uma batalha de 1 contra 1?\xfffeSem Atirador Milagroso
+Queres uma batalha de 1 contra 1?\xfffeCom Atirador Milagroso
+Queres uma batalha de 2 contra 2?\xfffeSem Atirador Milagroso
+Queres uma batalha de 2 contra 2?\xfffeCom Atirados Milagroso
+Queres uma batalha de 3 contra 3?\xfffeSem Atirador Milagroso
+Queres uma batalha de 3 contra 3?\xfffeCom Atirador Milagroso
+Torneio Rotativo?\xfffeSem Atirador Milagroso
+Torneio Rotativo?\xfffeCom Atirador Milagroso

@@ -1,0 +1,68 @@
+\xf000ȁ\x0001\x0000Gente
+Total\xf000Ȅ\x0001\x0000pessoas
+A quem queres agradecer
+\xf000Ā\x0001\x0000さんに\xfffeおれいを　しました！
+\xf000đ\x0001\x0001を\xfffeQueres usar？\xfffeNecessitas　\xf000Ȃ\x0001\x0002Tens　\x f 000Ȃ\x0001\x0003こ
+\xf000Ā\x0001\x0000さんが　はつどうした\xfffe\xf000đ\x0001\x 0001を\xfffeつかいますか？
+O poder foi iniciado！！\xfffe\xf000đ\x0001\x0001を\xfffeQueres utilizá-lo?
+\xf000đ\x0001\x0001を\xfffeUsado!
+Não tens Balls suficientes\xfffePara usar o poder \xfffenecesitas　\xf000Ȃ\x0001\x0002こ／Tens\xf 000Ȃ\x0001\x0003こ
+\xf000đ\x0001\x0001を\xfffeUsando\xfffeのこり　\xf000ȁ\ x0001\x0005びょう
+\xf000đ\x0001\x0001を\xfffeUsando\xfffeのこり　\xf000Ȃ\ x0001\x0004ふん\xf000ȁ\x0001\x0005びょう
+『\xf000Ĝ\x0001\x0000』と\xfffedisse!
+Comfirmar
+Sim
+Não
+Comfirmar
+Sair
+Como estás？
+『\xf000Ā\x0001\x0000』さんが\xfffefoi terminada por
+\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x00 01との\xfffeiniciaste uma batalha contra um Pokemon selvagem
+\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x00 01との\xfffeganhaste a batalha contra um Pokemon selvagem
+\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンとの\xfffe iniciaste uma batalha contra um Pokemon especial
+\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンとの\xfffe ganhaste a batalha contra um Pokemon especial
+\xf000Ā\x0001\x0000さんが\xfffe\xf000Ď\x0001\x0001の　\ xf000Ā\x0001\x0002との\xfffeiniciaste a batalha com
+\xf000Ā\x0001\x0000さんが\xfffe\xf000Ď\x0001\x0001の　\ xf000Ā\x0001\x0002との\xfffeganhasta a batalha com
+\xf000Ā\x0001\x0000さんが\xfffeジムリーダーとの\xfffeiniciast e uma batalha contra um líder de um ginásio
+\xf000Ā\x0001\x0000さんが\xfffeジムリーダーとの\xfffeganhaste uma batalha contra um líder de um ginásio
+\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffe iniciaste uma batalha contra um treinador especial
+\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffe ganhaste uma batalha contra um treinador especial
+\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffe iniciaste uma batalha contra um treinador especial
+\xf000Ā\x0001\x0000さんが\xfffeとくべつな　トレーナーとの\xfffe ganhaste uma batalha contra um treinador especial
+\xf000Ā\x0001\x0000さんが\xfffeやせいの　\xf000ā\x0001\x00 01を\xfffePokemon Selvagem capturado
+\xf000Ā\x0001\x0000さんが\xfffeとくべつな　ポケモンを\xfffe Pokemon especial capturado
+\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の\x fffeSubio de nível
+\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が　し んかして\xfffe\xf000ā\x0001\x0001に　なりました！
+アクションIDと並びを同一にするための\xfffeダミーメッセージです
+\xf000Ā\x0001\x0000さんが\xfffe\xf000ĉ\x0001\x0001を\x fffeencontrado
+\xf000Ā\x0001\x0000さんの\xfffeプレイじかんが　\xf000Ȃ\x0001\ x0001じかんを\xfffEstás a jogar à -horas
+\xf000Ā\x0001\x0000さんの\xfffeポケモンずかんが　かんせい　しました！
+\xf000Ā\x0001\x0000さんの\xfffeおれいかいすうが　\xf000Ȃ\x0001 \x0001かいを\xfffeRecebeste -agradecimentos
+\xf000Ā\x0001\x0000さんが\xfffeEsta á frente da mesa na sala de reuniões
+\xf000Ā\x0001\x0000さんから\xfffeRecebeste um agradecimento de-
+Actualmente　\xf000ā\x0001\x0001を\xfffeA tranferir
+Actualmente　\xf000ĉ\x0001\x0001を\xfffeA tranferir
+Actualmente está a tranferir\xfffeum presente estranho
+\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　こ うげきが\xfffe Golpe critico
+\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が　こ うげきを\xfffeFoi ferido de forma critica
+\xf000Ā\x0001\x0000さんは\xfffeEscapou
+\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　Ｈ Ｐが\xfffeEstá sem hp
+\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002の　Ｐ Ｐが\xfffeEstá sem pp
+\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が\x fffeEstá em estado critico
+\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002が\x fffeEstá com uma condição anormal
+\xf000Ā\x0001\x0000さんが\xfffe\xf000ĉ\x0001\x0001を\x fffeEstá a usar
+\xf000Ā\x0001\x0000さんが\xfffe\xf000ć\x0001\x0001を\x fffeEstá a usar
+\xf000Ā\x0001\x0000さんは\xfffeRecebeste um ovo
+\xf000Ā\x0001\x0000さんの　タマゴから\xfffe\xf000ā\x0001\x0 001Incubando o ovo
+\xf000Ā\x0001\x0000さんは\xfffea comprar
+\xf000Ā\x0001\x0000さんは\xfffeactualmente está\xfffepreparado para lutar debaixo do chão
+\xf000Ā\x0001\x0000さんは\xfffeactualmente foste \xfffe\xf000Ȁ\x0001\x0001-vezes debaixo do chão
+\xf000Ā\x0001\x0000さんは\xfffeactualmente\xfffeReceb este um trofeo "underground".
+\xf000Ā\x0001\x0000さんは\xfffedesafio\xfffela casa trial
+\xf000Ā\x0001\x0000さんは\xfffeobtiveste um certificado\xfffe\xf000ģ\x0001\x0001da casa trial
+\xf000Ā\x0001\x0000さんは\xfffeUsou o Comboio
+\xf000Ā\x0001\x0000さんは\xfffeEstá no poke shifter
+\xf000Ā\x0001\x0000さんの\xfffe\xf000Ă\x0001\x0002Acu talmente está a desafiar o musical
+\xf000Ā\x0001\x0000さんは　うけとった\xfffe\xf000đ\x0001\x0 001を\xfffeUsando o - 
+\xf000Ā\x0001\x0000さんが\xfffe『\xf000Ĝ\x0001\x0001』と \xfffedisse
+アクションIDと並びを同一にするための\xfffeダミーメッセージです

@@ -1,0 +1,107 @@
+Modo de Pesquisa
+Por favor introduz os critérios de procura.
+Resultados da Procura
+RESULTADOS: \xf000Ȃ\x0001\x0000
+Selecciona o modo de vista da Pokédex.
+Vista pela primeira letra de um nome.
+Vista pelo tipo.
+Vista pelo estilo de corpo.
+Vista pela cor do corpo.
+Pokémon encontrado!
+Não encontrado...
+A procurar...
+Ordenar
+Nome
+Tipo
+Cor
+Forma
+Unova Dex: Modo de Pesquisa
+National Dex: Modo de Pesquisa
+Reset
+Start
+Cancelar
+\xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
+Aceitar
+Cancelar
+Numeral
+De A-Z
+O mais pesado
+O mais leve
+O mais alto
+O mais baixo
+Tipo
+Pedra
+Psíquico
+Lutador
+Erva
+Gelo
+Fantasma
+Terra
+Electrico
+Venenoso
+Dragão
+Normal
+Aço
+Voador
+Fogo
+Água
+Insecto
+――――
+／
+――――
+ア.
+イ
+ウ
+エ
+オ
+Poder
+キ
+Geral
+ケ
+コ
+Suporte
+Sistema
+Fonte
+Centro
+Software
+Dados
+チ
+Árvore
+Teste
+ト
+ナ.
+ニ
+ヌ
+ネ
+ノ
+ハ.
+ヒ
+フ
+ヘ
+ホ
+マ.
+ミ
+ム
+メ
+モ
+ヤ.
+ユ
+ヨ
+ラ.
+Lista
+ル
+レ
+ロ
+ワ.
+―
+Vermelho
+Azul
+Amarelo
+Verde
+Preto
+Castanho
+Roxo
+Cinzento
+Branco
+Rosa
+――――

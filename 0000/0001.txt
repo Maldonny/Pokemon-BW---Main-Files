@@ -1,0 +1,52 @@
+ＨＰ／ＰＰ
+Recuperar
+Estado
+Tratamentos
+ＨＰ／ＰＰ
+Recuperar
+Itens de Combate
+PokéBolas
+Item usado antes
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+Próximo
+ＨＰ／ＰＰ
+Recuperar
+Estado
+Tratamentos
+Poké Bolas
+Itens de batalha
+／
+\xf000Ȁ\x0001\x0000
+\xf000Ȁ\x0001\x0000
+Usar
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+Nao haverá nenhum efeito!
+Está rodeado em uma névoa branca!\xfffe
+O \xf000Ă\x0001\x0000 \xfffeestá a ser atacado!
+O Ataque do \xf000Ă\x0001\x0000 \xfffe aumentou!
+O Ataque esp. do \xf000Ă\x0001\x0000 \xfffe aumentou!
+A Velocidade do \xf000Ă\x0001\x0000 \xfffe aumentou!
+A Defesa esp. do \xf000Ă\x0001\x0000 \xfffe aumentou!
+A Defesa do \xf000Ă\x0001\x0000 \xfffe aumentou!
+A Precisão do \xf000Ă\x0001\x0000 \xfffe aumentou!
+O \xf000ĉ\x0001\x0000\xfffefoi usado!
+Não!É impossível acertar\xfffeem 2 pokémon!
+Não há espaço no PC!
+O efeito vem do(a)\xf000ć\x0001\x0001 usado no\xfffe\xf000Ă\x0001\x0000!
+Nao é bom! É impossivel acertar num Pokémon fora de alcance!
+Não é bom! É impossivel acertar num Pokemon fora de alcance!
+Não há suficiente energia
+As palavras da Araragi ecoam...\xfffe\xf000븀\x0000!Há tempo e lugar para tudo! Mas não agora.
+Não podes lançar a bola\xfffesem concentração!

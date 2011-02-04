@@ -1,0 +1,28 @@
+Escolhe uma palavra!
+Pensa em uma introdução pré-batalha!
+Pensa numa forma fixe de ganhar!
+Pensa em uma desculpa de perder!
+O que é moda?
+Pensa numa saudação de União!
+Isto está correcto?
+Coloca em uma palavra!
+Parar de entrar?
+Sim
+Não
+Modo\xfffeGrupo
+Modo\xfffeABC
+Usar
+Confirmar
+Sair
+Editar
+Adicionar Nova Mensagem
+Escolher
+Apagar
+Sair
+メッセージとうろくリスト：\xfffeつかいたい メッセージを\xfffeえらんで ください！
+メッセージの しゅるいや\xfffeことばをいれる ばしょを\xfffeえらんで ください！
+Escolhe onde\xfffecolocar a palavra!
+Modo Grupo:\xfffeEscolhe palavras\xfffeda categoria!
+Modo ABC:\xfffeEscolhe letras para\xfffeformar palavras!
+Modo ABC:\xfffeEscolhe palavras da\xfffelista a baixo!
+Modo Grupo:\xfffeEscolhe o\xfffegrupo apropriado!

@@ -1,0 +1,69 @@
+Impossível conectar-se à Nintendo\xfffeWi-Fi Connection.\xfffe\xfffepara ajudar, lê os manual de\xfffeinstruções do programa, ou visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: (\xf000Ȅ\x0001\x0000)
+A Nintendo Wi-Fi Connection\xfffeestá com demasiado tráfico\xfffeou o serviço está desligado.\xfffePor favor, tenta mais tarde. \xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
+Este Nintendo Wi-Fi Connection ID\xfffefoi removido pois estava\xfffeinactivo à demasiado tempo. \xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000)
+O serviço da Nintendo Wi-Fi Connection\xfffepara este programa\xfffefoi discontinuado.\xfffe\xfffeVisita support.nintendo.com\xfffepara uma lista do software\xfffecompatível com uma Wi-Fi Connection. Código do erro: （\xf000Ȅ\x0001\x0000）
+O ponto de acesso está ocupado.\xfffeImpossível conectar.\xfffePor favor, tenta mais tarde.\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
+Nenhum ponto de acesso ao alcance.\xfffePor favor, tenta quando estiveres mais\xfffeperto de um ponto de acesso.\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
+Nenhum ponto de acesso compatível\xfffeao alcance. \xfffeVê as opções da ligação e\xfffetenta de novo. \xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000)
+Impossível ligar ao Nintendo\xfffeWi-Fi USB Connector. Vê as\xfffeopções da ligação na instalação\xfffeda Nintendo Wi-Fi Connection.\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
+Impossível ligar à Nintendo \xfffeWi-Fi Connection. \xfffeVê as opções da ligação.\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro:  \xf000Ȅ\x0001\x0000
+Não há resposta.\xfffeOu o jogador foi disconectado\xfffeou foste removido da\xfffelista de amigos de mesmo.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
+Erro de comunicação.\xfffeFoste disconectado da\xfffeNintendo Wi-Fi Connection.\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
+Erro de comunicação.\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
+O download falhou.\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
+Erro de comunicação.\xfffeFoste disconectado da\xfffeNintendo Wi-Fi Connection.\xfffePor favor, tenta outra vez.\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.
+Erro de comunicação...
+Erro desconhecido.\xfffePode ter sido causado\xfffepor um erro de software.\xfffe\xfffe\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
+A tua informação de utilizador\xfffeNintendo Wi-Fi Connection pode ter sido\xfffeapagada. Compara as opções da tua ligação\xfffecom a confugração da\xfffeNintendoWi-Fi Connection.
+Ligar-se à Nintendo Wi-Fi Connection?
+Nintendo Wi-Fi Connection põe em risco\xfffeo teu jogo e o sistema\xfffeda Nintedo DS. Guardar\xfffea informação de utilizador\xfffedeste sistema da Nintendo Wi-Fi Connection\xfffeno cartão deste jogo\xfffee ligar-se à Nintendo\xfffeWi-Fi Connection?
+Nintendo Wi-Fi Connection User\xfffeInformation for this system\xfffehas been saved to the Game Card.\xfffeFrom now on, please use this\xfffesystem to connect to\xfffeNintendo Wi-Fi Connection.
+Unable to connect to Nintendo\xfffeWi-Fi Connection because the\xfffeNintendo Wi-Fi Connection User\xfffeInformation from the system\xfffeand the Game Card do not match.
+Update Nintendo Wi-Fi Connection\xfffeUser Information saved on the\xfffeGame Card?\xfffeWhen you update your Nintendo\xfffeWi-Fi Connection User\xfffeInformation, you will lose all\xfffedata that was used to connect\xfffeto Nintendo Wi-Fi Connection.
+Connect to Nintendo Wi-Fi\xfffeConnection to update\xfffeNintendo Wi-Fi Connection\xfffeUser Information?\xfffe\xfffeWarning:\xfffeAll of the friends registered in\xfffeyour Pal Pad will be deleted.
+Connecting to Nintendo Wi-Fi\xfffeConnection... Please wait a moment...
+You cannot access Nintendo Wi-Fi\xfffeConnection using this user name.\xfffe\xfffePlease change your user name.
+OK to disconnect from Nintendo\xfffeWi-Fi Connection?
+Disconnecting from Nintendo Wi-Fi\xfffeConnection...
+You have been disconnected from\xfffeNintendo Wi-Fi Connection.\xf000븂\x0001d
+Sim
+Não
+A guardar...\xfffeNão desligues a consola.
+A comunicar...\xfffeNão desligues a consola.
+Ｗｉ－Ｆｉコネクションの\xfffeせっていを おこなうには\xfffeほんたいせっていの\xfffeインターネットの こうもくまで\xfffeいどうして ください
+Houve um erro de comunicação\xfffeno Wi-Fi Plaza.\xfffeCódigo do erro:  （\xf000Ȅ\x0001\x0000）
+りようきやく に\xfffeどういする ひつようが あります\xfffeほんたいせっていで りようきやく に\xfffeどういして ください\xfffe（５０５９９）
+\xf000봂\x0000Nintendo Wi-Fi Connection
+\xf000봂\x0000Nintendo Wi-Fi Connection
+つうしんエラー に よって\xfffeＷｉ－Ｆｉコネクション から\xfffeせつだん されました\xfffe\xfffeもういちど \xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく しますか？
+ほんとうに こうしん しても\xfffeよろしいですか？\xfffe\xfffeちゅうい\xfffeいま とうろく している\xfffeＷｉ－Ｆｉたいかいは\xfffeさんかが かいじょに なります
+ほんたいの むせんつうしんが\xfffeオフに なっています\xfffeほんたいせっていで むせんつうしんを\xfffeオンに してください\xfffe（５０６９９）
+あいてとの せつぞくが\xfffeせつだん されました
+つうしんエラーが はっせいしました\xfffeでんげんを きってください
+ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう が\xfffeきえた かのうせい が あります\xfffe\xfffeほんたい せっていの\xfffeインターネットの せってい で\xfffeせつぞくさきの せってい を\xfffeごかくにん ください
+Ｗｉ－Ｆｉコネクションでは\xfffeセーブデータと ほんたいを\xfffeセットで あつかいます\xfffeセーブデータに ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeほぞん して\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく しますか？
+この ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeセーブデータに\xfffeほぞん しました\xfffeこんごの Ｗｉ－Ｆｉコネクションへの\xfffeせつぞくは\xfffeこの ほんたいを\xfffeおつかい ください
+ほんたいと セーブデータの\xfffeＷｉ－Ｆｉユーザーじょうほう が\xfffeちがうため\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく できません
+セーブデータに ほぞん されている\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeこうしん しますか？\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeこうしん すると\xfffeＷｉ－Ｆｉコネクションで\xfffeこれまで おつかいに なっていた\xfffeデータは うしなわれてしまいます
+Nenhum ponto de acesso ao alcance.\xfffePor favor, tenta quando estivers\xfffemais perto de um ponto de acesso.\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
+Este Nintendo Wi-Fi Connection ID\xfffefoi removido pois estava\xfffeinactivo à demasiado tempo. \xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
+Nenhum ponto de acesso ao alcance.\xfffePor favor, tenta quando estivers\xfffemais perto de um ponto de acesso.\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro:  \xf000Ȅ\x0001\x0000
+A tua informação de utilizador\xfffeNintendo Wi-Fi Connection pode ter sido\xfffeapagada. Compara as opções da\xfffetua ligação com as da Nintendo\xfffeWi-Fi Connection.
+A typical error.\xfffePlease try resetting\xfffeyour DS system and\xfffethen try connecting.\xfffe\xfffeCódigo do erro: （\xf000Ȅ\x0001\x0000）
+O servidor está com problemas.\xfffe\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro:  13201
+O servidor está com problemas.\xfffe\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro:  13202
+O servidor está com problemas.\xfffe\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro:  13203
+O servidor está com problemas.\xfffe\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro:  13204
+O servidor está com problemas.\xfffe\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro:  13205
+O serviço está\xfffeem Stand-by.\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro:  13206
+O servidor está com problemas.\xfffe\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro:  13207
+O servidor está com problemas.\xfffe\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro:  13208
+O servidor está com problemas.\xfffe\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro:  13209
+O servidor está com problemas.\xfffe\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro:  13210
+O servidor está com problemas.\xfffe\xfffe\xfffePara ajuda, visita\xfffesupport.nintendo.com.\xfffeCódigo do erro:  13211
+O servidor está desligado\xfffepara manutenção.\xfffePor favor, tenta mais tarde.\xfffepara mais informação, vai a:\xfffehttp://www.pokemon-gl.com/\xfffeCódigo do erro:  13212\xfffe \xfffePress the A button to continue.
+エラーが はっせいしました\xfffeせつだんしています
+Erro desconhecido.\xfffeCódigo do erro:  13280
+Erro desconhecido.\xfffeCódigo do erro:  13281
+Erro desconhecido.\xfffeCódigo do erro:  13282
+Erro desconhecido.\xfffeCódigo do erro:  13283

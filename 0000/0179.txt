@@ -1,0 +1,36 @@
+Continuar Jogo
+Novo Jogo
+Mystery Gift
+Opções Wi-Fi 
+GL: Torneio de Batalhas
+GL: Game Sync
+Transfer Machine
+Testar Mic
+Jogador
+Tempo de jogo \xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
+Pokédex　\xf000Ȃ\x0001\x0000
+Crachás　\xf000ȁ\x0001\x0000
+\xf000Ā\x0001\x0000
+\xf000Ȃ\x0001\x0000：\xf000ȁ\x0001\x0001
+\xf000Ȃ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ą\x0001\x0000
+ほんたいの　せっていにより\xfffeむせんつうしんが　つかえません\xf000븁\x0000むせんつうしんを　つかうには\xfffeほんたいせっていの　むせんつうしんを\xf000븀\x0000オンにしてください　（５０６９９）
+ペアレンタルコントロールの\xfffeつうしんせいげん
+ふしぎな　おくりもの\xfffeしょかい　じゅしん
+Aviso de Bateria!
+Quando o C-Gear está activado, a\xfffeNintendo DS consome\xfffeenergia a mais da bateria, isso quer dizer\xfffeque a bateria descarrega-se mais depressa.\xfffe \xfffeIsto tambem pode acontecer\xfffese a tua Nintendo DS estiver fechada.
+Aviso de Gravação!
+Já existe um ficheiro gravado.\xfffeAssim é impossivel gravar.\xfffePor favor lê as Instrucções\xfffepara mais detalhes.\xfffeVai continuar na mesma?
+Botão A: Continar
+Botão B: Voltar ao menu
+Activar o C-Gear?\xfffePor favor leia o aviso abaixo.
+Tens a certeza que queres desactivar\xfffeo C-Gear? Podes activa-lo mais tarde.
+レポートの　ないようが\xfffeきえてしまった！
+きえて　しまった　バトルビデオの\xfffeきろくが　あります！
+Ｃギアの　スキンデータが\xfffeきえてしまった！
+とくべつな　バトルけんていの\xfffeデータが　きえてしまった！
+ミュージカルの　えんもくデータが\xfffeきえてしまった！
+ずかんの　スキンデータが\xfffeきえてしまった！
+でんどういりポケモンの\xfffeきろくが　きえてしまった！
+ふしぎな　おくりものの\xfffeきろくが　きえてしまった！

@@ -1,0 +1,207 @@
+No. Vistos
+No. Apanhados
+JPN
+ENG
+FRA
+GER
+ITA
+SPA
+Detalhes
+\xf000Ȃ\x0001\x0000
+FP
+FH
+Modo de Pesquisa
+Por favor introduza os critérios de pesquisa.
+Resultados de Pesquisa
+RESULTADOS\xf000Ȃ\x0001\x0000
+Seleccionar o modo de lista da Pokédex.
+Lista da primeira letra do nome.
+Lista de tipos.
+Lista por faixa de peso.
+Lista por faixa de altura.
+Lista por estilo de corpo.
+Lista por area.
+Nenhum Pokémon correspondente foi encontrado.
+Não foi encontrado...
+A Pesquisar...
+Ordem
+Nome
+Tipo
+FP
+FA
+Area
+Forma
+Kanto
+Johto
+Reniciar
+Começar
+Cancelar
+\xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
+Aceitar
+Cancelar
+Numericos
+A a Z
+Mais Pesado
+Mais Leve
+Mais Alto
+Mais Baixo
+Escuro
+Rocha
+Psíquico
+Lutador
+Erva
+Gelo
+Fantasma
+Terra
+Eléctrico
+Venenoso
+Dragão
+Normal
+Aço
+Voador
+Fogo
+Água
+Insecto
+ーーーー
+Johto
+Kanto
+Unknown
+ーーーー
+ア
+イ
+ウ
+エ
+オ
+カ
+キ
+ク
+ケ
+コ
+サ
+シ
+ス
+セ
+ソ
+タ
+チ
+ツ
+テ
+ト
+ナ
+ニ
+ヌ
+ネ
+ノ
+ハ
+ヒ
+フ
+ヘ
+ホ
+マ
+ミ
+ム
+メ
+モ
+ヤ
+ユ
+ヨ
+ラ
+リ
+ル
+レ
+ロ
+ワ
+ー
+Macho
+Femimino
+Mar Ocidental
+Mar do Leste
+Capa de Planta
+Capa de Areia
+Capa de Lixo
+Uma Forma
+JP Pokédex
+EN Pokédex
+FR Pokédex
+GE Pokédex
+IT Pokédex
+SP Pokédex
+Area Desconhecida
+Manhã
+Dia
+Noite
+Mudar
+\xf000ą\x0001\x0000
+Mostrar Todos
+Mostrar Todos
+Exame de Altura
+Exame de Peso
+１．６０ｍ
+１．４８ｍ
+４５．０ｋｇ
+３８．０ｋｇ
+Area
+Tamanho
+Registro da Pokédex completa.
+Forma Normal 
+Forma de Ataque
+Forma de Defesa
+Forma de Velocidade
+Forma da Terra
+Forma do Céu
+Forma Alterada
+Forma Original
+Rotom
+Aquecedor Rotom
+Lavandaria Rotom
+Congeladora Rotom
+Fã Rotom
+Ceifa Rotom
+Forma do \xf000ā\x0001\x0000
+Normal
+Forma de Sol
+Forma de Chuva
+Forma de Neve
+Forma Sombria
+Forma Solar
+Spiky-Orelhudo
+\xf000ā\x0001\x0000：
+Comparar
+Comparar \xf000ā\x0001\x0000
+Formas
+Mudar
+Cancelar
+Cancelar
+Voltar á Lista
+Queres dar alcunha ao\xfffe\xf000ā\x0001\x0000?
+\xf000Ă\x0001\x0000 foi enviado para\xfffe\xf000ċ\x0001\x0001 no PC!
+\xf000Ă\x0001\x0000 foi enviado para\xfffe\xf000ċ\x0001\x0001 no PC da Shorea!
+Informação
+Mapa
+Voz
+Forma
+Forma
+\xf000Ȁ\x0001\x0000'\xf000ȁ\x0001\x0001"
+Formas vistas:
+Diferentes formas:
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+ 
+\xf000ā\x0001\x0000 localização(ões)
+Primavera
+Verão
+Outono
+Inverno
+???
+HT
+HAUT.
+GR.
+ALTEZ.
+ALT.
+키
+Peso
+POIDS
+GEW.
+PESO
+PESO
+몸무게

@@ -1,0 +1,37 @@
+Opções
+Veloc. de texto
+Cena de batalha
+Estilo de batalha
+Som
+Texto de exibição
+Moldura
+IR Relatório
+Confirmar
+Sair
+Devagar
+Médio
+Rápido
+Ligado
+Desligado
+Mudança
+Configuração
+Estéreo
+Mono
+Português
+Kanji
+Escrever
+Desligado
+かく
+かかない
+A Velocidade de texto pode ser configurada\xfffe em 3 tipos diferentes.
+Optar por exibir animações de batalha.
+Escolha as normas-padrão\xfffede mudança de Pokémon no campo de batalha.
+Escolha a colocar o som\xfffeem estéreo ou em mono.
+Escolha como exibir texto.\xfffeKanji é uma língua Japonesa.
+いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
+Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
+べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
+Queres gravar? Se tu\xfffenão o fizeres, todas as mudanças vão ser perdidas.
+Sim
+Não
+ダミーメッセージ

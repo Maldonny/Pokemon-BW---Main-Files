@@ -1,0 +1,7 @@
+Batalha Única
+Batalha Dupla
+Batalha Tripla
+Batalha de Rotação
+Batalha Multipla
+Shooter Battle
+Debug Battle

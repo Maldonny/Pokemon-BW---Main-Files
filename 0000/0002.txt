@@ -1,0 +1,108 @@
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+Escolhe um Pokémon.
+Usar em que Pokémon?
+Substituir com qual Pokémon?
+Com qual Pokémon vais lutar?
+Qual Pokémon vais regressar?
+L\xf000Ȃ\x0001\x0000
+/
+\xf000Ȃ\x0001\x0000
+\xf000Ć\x0001\x0000
+\xf000ĉ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+PP
+Switch
+♂
+♀
+Estado
+Movimentos
+Desmaiado
+Em Batalha
+standing by(nao percebi o contexto)
+Parceiro
+Nenhum item em posse
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+Lv.
+\xf000Ȃ\x0001\x0000
+Para o próximo nível
+\xf000ȅ\x0001\x0000
+\xf000Ć\x0001\x0000
+HP
+\xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+／
+Ataque
+\xf000Ȃ\x0001\x0000
+Defesa
+\xf000Ȃ\x0001\x0000
+Ataq. Esp.
+\xf000Ȃ\x0001\x0000
+Def. Esp.
+\xf000Ȃ\x0001\x0000
+Veloc.
+\xf000Ȃ\x0001\x0000
+\xf000ć\x0001\x0000
+PP
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+/
+--
+Poder
+\xf000Ȃ\x0001\x0000
+-
+Precisão
+\xf000Ȃ\x0001\x0000
+Categoria
+Físico
+Estado
+Especial
+Ponto(s) de Atracção
+Esquecer
+Cancelar
+Movimentos HM não podem ser\xfffeesquecidos agora.
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+O \xf000Ă\x0001\x0000 \xfffejá está a combater!
+O \xf000Ă\x0001\x0000 Não tem energia disponível para combater!
+O \xf000Ă\x0001\x0000 \xfffenão pode ser substituido!
+Um ovo não pode lutar!
+Não podes substituir um dos pokemon do teu parceiro por um dos teus!
+Não terá nenhum efeito.
+O HP do \xf000Ă\x0001\x0000 foi restaurada por\xfffe\xf000Ȃ\x0001\x0001 pontos!
+O \xf000Ă\x0001\x0000 foi curado do seu\xfffeenvenenamento.
+O \xf000Ă\x0001\x0000 foi curado do sua\xfffeparalisia.
+A queimadura do \xf000Ă\x0001\x0000\xfffe foi curada.
+O \xf000Ă\x0001\x0000\xfffefoi descongelado.
+PP foi restaurado.
+O \xf000Ă\x0001\x0000 \xffferecuperou do desmaio!
+O \xf000Ă\x0001\x0000 \xfffetornou-se saudável.
+O \xf000Ă\x0001\x0000 \xfffeescapou da sua confusão.
+O \xf000Ă\x0001\x0000 \xfffeacabou a sua paixão.
+O \xf000Ă\x0001\x0000 \xfffeacordou.
+O \xf000Ă\x0001\x0000 \xfffeJá foi selecionado.
+Restaurar qual movimento?
+\xf000ć\x0001\x0001　efeitos previnem o item de ser utilizado em\xfffe\xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000 \xfffeNão pode regressar!
+\xf000Ă\x0001\x0000 \xfffejá foi retornado.

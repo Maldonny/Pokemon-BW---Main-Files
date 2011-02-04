@@ -1,0 +1,146 @@
+N/A
+Preto
+Branco
+Rapaz
+Rapariga
+Batalha
+Intercâmbio
+Cidade
+País
+Inteligente
+Atlético
+Tempo
+Dinheiro
+Estilos
+Personalidade
+Fixe
+Lindo
+Estranho
+Pokabu
+Mijumaru
+Shita-ja
+Mar
+Río
+Montanha
+Aula
+Quebrar
+Almoços escolares
+Familia
+Amigos
+Auto
+Primavera
+Verão
+Queda
+Inverno
+Doce
+Picante
+Azedo
+Amargo
+Interessante
+Cool
+Bom
+Rico
+Luta
+Recolher
+História
+Pokémon
+Primeira Lingua
+Matemática
+Ciência
+Sociedade
+Primeira Lingua
+Matemática
+Ciência
+Sociedade
+Treinador
+Professor Pokémon
+Equipa Plasma
+Pokémon
+Jogar ao ar livre
+Loja
+Ler
+Jogo
+Sono
+Popular
+Rock
+Jazz
+Rap
+Classico
+Noticias
+Drama
+Comedia
+Desportos
+Anime
+Acção
+SF
+Amor
+Suspense
+Comedia
+Horror
+Basebol
+Futebol
+Basquetebol
+Futebol
+Hockey
+Artes Marciais
+Vermelho
+Verde
+Azul
+Amarelo
+Branco
+Preto
+Fitness
+Ler
+Musica
+Filmes
+Viagem
+Cozinhar
+Pescar
+Jogos
+Estudante
+Secretario
+Criador
+Empregado
+Govt. Oficial
+Ama
+Artista
+Trabalho
+Podda
+Dento
+Koon
+Aloe
+Arti
+Kamitsure
+Yacon
+Fuuro
+Hachiku
+Iris
+Shaga
+Normal
+Fogo
+Água
+Electricidade
+Erva
+Gelo
+Luta
+Veneno
+Terra
+Voador
+Psiquico
+Insecto
+Rocha
+Fantasma
+Dragão
+Escuro
+Aço
+0 - 10 horas
+10 - 20 horas
+20 - 30 horas
+30 - 40 horas
+40 - 50 horas
+50 - 60 horas
+60 - 70 horas
+70 - 80 horas
+80 - 90 horas
+90 - 100 horas
+100  horas

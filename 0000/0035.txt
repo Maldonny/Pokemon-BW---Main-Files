@@ -1,0 +1,19 @@
+▲
+Pokédex
+Pokémon
+Mochila
+Treinador 
+Guardar
+Opções
+　
+Chat
+　
+ずかんを　せんたくしました
+ポケモンステータスを　せんたくしました
+バッグを　せんたくしました
+トレーナーカードを　せんたくしました
+レポートを　せんたくしました
+せっていを　せんたくしました
+A escrever um relatório Pokémon.
+Relatório Pokémon\xfffeescrito com sucesso!
+Não consegue escrever um relatório durante a comunicação.

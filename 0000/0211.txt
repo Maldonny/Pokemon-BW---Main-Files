@@ -1,0 +1,69 @@
+Pal Pad
+Ver Lista de Amigos
+Registar um Friend Code
+Friend Code do(a) \xf000Ā\x0001\x0000
+Sair
+Lista de Amigos
+\xf000Ā\x0001\x0000
+\xf000봂\x0000Voltar
+Detalhes
+Reescrever Nome
+Eliminar
+Cancelar
+O que gostarias de fazer com\xfffea informação do(a) \xf000Ā\x0001\x0000?
+Gravar Com \xf000Ā\x0001\x0000
+\xf000봂\x0000A: Voltar ao Ecrã Anterior
+Grupo
+\xf000Ā\x0001\x0000
+\xf000봂\x0000\xf000Ā\x0001\x0000
+\xf000봂\x0000\xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
+Record das Batalhas
+Vitórias
+Derrotas
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+Trocas Pokémon
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+Vezes Cozinhadas
+\xf000ȃ\x0001\x0000
+Data Último Jogo
+\xf000ȃ\x0001\x0000/\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002
+Battle Tower
+Battle Factory
+Battle Castle
+Battle Hall
+Battle Arcade
+Anterior
+Actual
+Record
+Série de Vitórias: \xf000ȃ\x0001\x0000
+Nível 50
+Sem Limite
+Alugar/Troca
+\xf000봃\x0000Castle Points
+Recorde do(a) \xf000ā\x0001\x0000
+\xf000봃\x0000\xf000ȃ\x0001\x0000
+\xf000봃\x0000\xf000ȃ\x0001\x0000CP
+Série de Vitórias: \xf000ȃ\x0001\x0000
+Jogos Ganhos: \xf000ȃ\x0001\x0000
+Plaza Games Jogados
+ひろばミニゲーム
+\xf000ȃ\x0001\x0000
+Friend Code do(a) \xf000Ā\x0001\x0000
+\xf000봂\x0000Voltar
+\xf000봂\x0000\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003
+Ao trocar Friend Codes\xfffecom outros jogadores, podes\xfffetrocar e batalhar com eles\xfffepela Nintendo Wi-Fi Connection.
+Para obter um Friend Code,\xfffeliga-te à Nintendo WFC.
+\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003\xfffe\xf000Ā\x0001\x0000 vai ser registado.
+O Friend Code está errado.\xfffe\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003
+O(a) \xf000Ā\x0001\x0000 vai ser eliminado.\xfffeContinuar assim mesmo?
+A tua Lista de Amigos está!
+Esse Friend Code já foi\xffferegistado antes.
+O Friend Code do(a) \xf000Ā\x0001\x0000 é:\xfffe\xf000ȃ\x0001\x0001 \xf000ȃ\x0001\x0002 \xf000ȃ\x0001\x0003
+Ver Friend Code
+Registar o(a) \xf000Ā\x0001\x0000 no teu\xfffePal Pad?
+A tua Lista de Amigos está cheia.\xfffeQueres eliminar alguém?
+Desistir de registar \xfffe\xf000Ā\x0001\x0000?
+Eliminar \xf000Ā\x0001\x0000 da tua Lista\xfffede Amigos?
+Sim
+Não
+Liga-te ao(à) \xf000Ā\x0001\x0000 outra vez,\xfffepor favor.

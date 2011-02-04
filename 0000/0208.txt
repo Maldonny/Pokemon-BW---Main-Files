@@ -1,0 +1,251 @@
+Bem-vindo ao GTS!
+A trade for your stored\xfffePokémon has beem made!
+\xf000Ă\x0001\x0000 não foi trocado.\xf000븁\x0000
+\xf000Ă\x0001\x0000 parece ter\xfffefugido...\xf000븁\x0000
+Estás á procurar ou a oferecer um Pokémon?
+Fazer o que com  \xf000Ă\x0001\x0000?
+Tu vai levar este \xf000Ă\x0001\x0000?
+Desconectar do\xfffeNintendo Wi-Fi Connection?
+Que tipo de Pokémon procuras?
+Por favor, escolhe o Pokémon que queres.
+Por favor, escolha seu gênero.
+Por favor, escolha o nível.
+Por favor, escolha o Pokémon que queres!
+Procurando o Pokémon que tú queres ...
+Não há resultados!
+Parar de procurar?
+Trocar Pokemon com o Treinador?
+Escolhe o Pokémon que queres trocar.
+Fazer o que com este \xf000Ă\x0001\x0000?
+Tu pareces ter trocado...
+していのポケモンと ちがいますよ！
+Escolhe o Pokémon que queres oferecer.
+Oferecer \xf000Ă\x0001\x0000?
+Estão bem estas condições?
+A verificar status do GTS ...
+A Ball Capsule será destacada.\xfffeEstá bem?
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 132??)\xf000븁\x0000
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 13266)\xf000븁\x0000
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 13267)\xf000븁\x0000
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 13268)\xf000븁\x0000
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 13269)\xf000븁\x0000
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 13270)\xf000븁\x0000
+Este Pokémon não é um legítimo\xfffePokémon. (Erro: 13271)\xf000븁\x0000
+Um ovo não podem ser oferecido\xfffepara troca!\xf000븁\x0000
+A tua equipa está completa.\xfffeNão podes receber nenhum Pokémon!\xf000븁\x0000
+As caixas de armazenamento estão cheias.\xfffeNão podes receber nenhum Pokémon!\xf000븁\x0000
+Foi encontrado um parceiro para trocar.
+Conecção Nintendo Wi-Fi
+Pressiona "SELECT" para escolher parceiro de troca.
+Por favor, altere as suas condições.
+Por favor, aguarde um pouco.
+A tua equipe está completa.\xfffeNão podes receber nenhum Pokémon.\xf000븁\x0000
+Não há espaço em sua equipa.
+Pokémon que tem uma fita especial.\xfffeNão pode ser oferecido para troca.\xf000븁\x0000
+GTS a verificação falhou.
+\xf000봂\x0000Global Trade System
+\xf000봂\x0000Sumario
+\xf000봂\x0000Depositar Pokemon
+\xf000봂\x0000Procurar Pokemon
+\xf000봂\x0000Sair
+\xf000Ă\x0001\x0000
+\xf000ā\x0001\x0001
+Lv. \xf000Ȃ\x0001\x0002
+Item
+\xf000ĉ\x0001\x0003
+Oferecer
+\xf000Ā\x0001\x0004
+Pokémon desejado
+\xf000ā\x0001\x0005
+Lv. \xf000Ȃ\x0001\x0006いじょう
+No Lv. Preferencia
+Levar de volta
+Deixar como está
+Sim
+Não
+Pokémon
+Levar de volta
+Pokémon
+\xf000ā\x0001\x0000
+Genero
+\xf000Ĩ\x0001\x0001
+Nível
+\xf000ĩ\x0001\x0002
+Pesquisar
+\xf000봂\x0000Back
+Selecionar
+\xf000Ă\x0001\x0000
+\xf000ā\x0001\x0001
+Lv. \xf000Ȃ\x0001\x0002
+Item
+\xf000ĉ\x0001\x0003
+あずけたひと
+\xf000Ā\x0001\x0004
+Procurado
+\xf000ā\x0001\x0005
+\xf000Ĩ\x0001\x0006
+\xf000ĩ\x0001\x0007
+Localização
+\xf000Ĥ\x0001\x0008
+\xf000ĥ\x0001\x0009
+Na equipa
+Cancelar
+\xf000ċ\x0001\x0000
+Sumario
+Troca
+Fim
+Sim
+Não
+A segurar
+Nome
+Confiar Pokemon
+\xf000ċ\x0001\x0000
+Na equipa
+Cancelar
+Sumario
+Troca
+Cancelar
+ Procurar
+\xf000ā\x0001\x0000
+\xf000ĩ\x0001\x0001
+ Oferecer
+\xf000Ă\x0001\x0002
+Lv.
+\xf000Ȃ\x0001\x0003
+Lv. \xf000Ȃ\x0001\x0003
+Cancelar
+ア
+カ
+サ
+タ
+ナ
+ハ
+マ
+ヤ
+ラ
+ワ
+Quer
+♂
+♀
+\xf000봂\x0000Voltar
+Qualquer
+Lv. 9 ou mais
+Lv. 10 ou mais
+Lv. 20 ou mais
+Lv. 30 ou mais
+Lv. 40 ou mais
+Lv. 50 ou mais
+Lv. 60 ou mais
+Lv. 70 ou mais
+Lv. 80 ou mais
+Lv. 90 ou mais
+Level 100
+\xf000봂\x0000Voltar
+Sending the Pokémon\xfffeto the GTS.
+The Pokémon was\xffferecorded on the GTS!\xf000븁\x0000
+Receiving the Pokémon\xfffefrom the GTS.
+The Pokémon was\xfffereceived from the GTS!\xf000븁\x0000
+Trading Pokémon\xfffeon the GTS!
+The Pokémon trade\xfffewas made!\xf000븁\x0000
+Unfortunately, it has already been\xfffetraded to someone else.\xf000븁\x0000
+Saving the game.\xfffePlease don't turn off the power.
+Now connecting\xfffewith the GTS...
+The GTS is currently\xfffeundergoing maintenance.\xf000븁\x0000\xfffePlease wait a while,\xfffethen try again.\xf000븁\x0000
+The GTS is currently\xfffecongested.\xf000븁\x0000\xfffePlease wait a while,\xfffethen try again. (13261)\xf000븁\x0000
+Erro na comunicação...
+Erro na comunicação...
+Erro na comunicação...\xfffeErro código: 13272\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13275\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13263\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13265\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13264\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13273\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13281\xf000븁\x0000
+Erro na comunicação...\xfffeErro código: 13282\xf000븁\x0000
+Não é possível conectar ao GTS.\xfffeA voltar ao balcão da recepção.\xf000븁\x0000
+Não é possível conectar ao GTS.\xfffeA voltar ao balcão da recepção.\xf000븁\x0000
+Fostes desconectado do GTS.\xfffeA voltar ao balcão da recepção.\xf000븁\x0000
+Communication was cut.
+A voltar ao balcão da recepção.
+Qualquer
+Lv. 1 ao 10
+Lv. 11 ao 20
+Lv. 21 ao 30
+Lv. 31 ao 40
+Lv. 41 ao 50
+Lv. 51 ao 60
+Lv. 61 ao 70
+Lv. 71 ao 80
+Lv. 81 ao 90
+Lv. 91 ao 100
+\xf000봂\x0000Voltar
+Localização
+\xf000Ĥ\x0001\x0000
+Qualquer
+Qualquer
+\xf000봂\x0000Back
+Por favor, escolha um local Pokémon.
+Este Pokemon não pode ser trocado na\xfffeForma!\xf000븁\x0000
+Spiky-eared PICHU não pode ser oferecido\xfffena troca. \xf000ȇ\x0000
+Este Pokemon não pode ser trocado enquanto\xfffesegurar este item!\xf000븁\x0000
+O.T.
+Ocorreu um erro durante a tentativa de\xfffeenviar o email de autentificação.\xf000븁\x0000
+Houve um erro de comunicação.\xf000븁\x0000
+Os dados foram corrompidos.\xfffeNão poderia ser enviado.\xf000븁\x0000
+O servidor está em manutenção.\xfffePor favor, tente mais tarde.\xf000븁\x0000
+Houve um erro de\xfffeautenticação de e-mail.\xf000븁\x0000
+Desligar da Conecção Nintendo Wi-Fi\xfffe... Aguarde um momento.
+Fostes desconectado da Conecção\xfffeNintendo Wi-Fi.
+ア
+イ
+ウ
+エ
+オ
+カ
+キ
+ク
+ケ
+コ
+サ
+シ
+ス
+セ
+ソ
+タ
+チ
+ツ
+テ
+ト
+ナ
+ニ
+ヌ
+ネ
+ノ
+ハ
+ヒ
+フ
+ヘ
+ホ
+マ
+ミ
+ム
+メ
+モ
+ヤ
+ユ
+ヨ
+ラ
+リ
+ル
+レ
+ロ
+ワ
+ 
+GTS\xfffeMenu Principal
+GTS\xfffeTrocar Pokémon
+GTS\xfffeSumario
+GTS\xfffeDepositar Pokémon
+GTS\xfffeProcurar Pokémon
+Cancelar
+\xf000Ȁ\x0001\x0000
+/

@@ -1,0 +1,48 @@
+Poder de Encontro +	
+Poder de Encontro ++	
+Poder de Encontro +++	
+Poder de Encontro -	
+Poder de Encontro --	
+Poder de Encontro ---	
+Hatching Power +	
+Hatching Power ++	
+Hatching Power +++	
+Poder de Felicidade +	
+Poder de Felicidade ++
+Poder de Felicidade +++	
+Poder de Desconto +	
+Poder de Desconto ++	
+Poder de Desconto +++	
+Poder de HP +	
+Poder de HP ++	
+Poder de HP +++	
+Poder de PP +	
+Poder de PP ++	
+Poder de PP +++	
+Poder de EXP +	
+Poder de EXP ++	
+Poder de EXP +++	
+Poder de EXP -	
+Poder de EXP --	
+Poder de EXP ---	
+Poder de Dinheiro +	
+Poder de Dinheiro ++	
+Poder de Dinheiro +++	
+Poder de Captur +	
+Poder de Captura ++	
+Poder de Captura +++	
+Egg Hatch Power S	
+Poder de Captura S	
+Poder de Amizade S	
+Poder de EXP S	
+Poder de Dinheiro de Bolso S	
+Poder de Desconto S	
+Poder de Restauro de HP	
+Egg Hatch Power　ＭＡＸ	
+Poder de Captura　ＭＡＸ	
+Poder de Amizade　ＭＡＸ	
+Poder de EXP　ＭＡＸ	
+Poder de Dinheiro de Bolso　ＭＡＸ	
+Poder de Desconto　ＭＡＸ	
+はっせいパワー　？	
+はいふパワー　？

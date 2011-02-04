@@ -1,0 +1,112 @@
+\xf000ā\x0001\x0000
+\xf000Ă\x0001\x0000
+Item equipado
+Natureza
+Abilidade
+\xf000ċ\x0001\x0000
+Caixa 1
+Caixa 2
+Caixa 3
+Caixa 4
+Caixa 5
+Caixa 6
+Caixa 7
+Caixa 8
+Caixa 9
+Caixa 10
+Caixa 11
+Caixa 12
+Caixa 13
+Caixa 14
+Caixa 15
+Caixa 16
+Caixa 17
+Caixa 18
+Caixa 19
+Caixa 20
+Caixa 21
+Caixa 22
+Caixa 23
+Caixa 24
+\xf000ȁ\x0001\x0000
+Saltar
+Wallpaper
+Nome
+Sair
+Cenário 1
+Cenário 2
+Cenário 3
+Etc.
+Amando 1
+Amando 2
+Floresta
+Cidade
+Deserto
+Savana
+Montanha de pedra
+Volcão
+Montanha nevada
+Cave
+Praia
+Mar
+Rio
+Céu
+Centro Pokemon
+Metal
+Verificar
+Simples
+Special
+Reshiram
+Zekrom
+Monochromo
+Equipa Plasma
+Munna
+Zoroark
+Subway
+Musical
+Atrás
+Frente
+Próximo
+Equipa
+Lista das caixas
+Caixa de batalha
+Mudar de caixa
+Organizar mochila
+Ver estado
+Item equipado
+Marking
+Libertar
+Tirar
+Depositar
+Sair
+Mover
+Mover
+Dormir
+OK
+Sair
+Trocar
+Sair
+Sair
+Trocar de\xfffeCaixa
+Trocar\xfffeWallpaper
+Depositar\xfffePokemon
+Para a mochila
+Esperar
+Mover
+♂
+♀
+\xf000Ć\x0001\x0000
+\xf000Ĉ\x0001\x0000
+\xf000ĉ\x0001\x0000
+Natureza
+Abilidade
+Item equipado
+\xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+Nada
+???
+Lv.
+No.
+Ataques
+Sim
+Não
