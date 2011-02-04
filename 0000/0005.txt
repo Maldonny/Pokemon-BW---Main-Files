@@ -1,3 +1,3 @@
-Não foi possivel aceder ao jogo guardado.\xfffePor favor desligue a consola.
-Houve um erro ao salvar os dados.\xfffePor favor desligue a consola e introduza novamente o cartão DS.
-Erro ao salvar os dados. A memoria da cópia de segurança falhou.\xfffeÉ possivel jogar o jogo, mas é impossível guardar. Por favor desligue a consola.
+Não foi possivel acessar o jogo salvo.\xfffePor favor desligue o console \xfffee reinsira o DS Game Card.
+Houve um erro ao salvar os dados.\xfffePor favor desligue o console \xfffee reinsira o DS Game Card.
+Erro ao salvar os dados. A memória da cópia de segurança falhou.\xfffeÉ possivel jogar o jogo, mas é impossível salvar. \xfffePor favor desligue o console.
