@@ -1,7 +1,7 @@
 Unova Dex
-National Dex
+Nacional Dex
 No. Vistos
-No. Apanhados
+No. Capturados
 Resultado da procura
 \xf000Ȃ\x0001\x0000
 \xf000ā\x0001\x0000
