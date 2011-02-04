@@ -1,9 +1,9 @@
 Bem-vindo ao Geonet,\xfffea alta tecnologia global!\xf000븁\x0000
-O que gostarias de fazer?
-Aqui, tu podes registrar a localização\xfffede onde moras.\xf000븀\x0000Essa informação pode ser fornecida a\xf000븁\x0000amigos e desconhecidos através do\xfffeDS Wireless Communications ou do\xf000븀\x0000Nintendo WFC.\xf000븀\x0000\xf000븀\x0000\xf000븁\x0000あなたGostaria de registrar a \xfffelocalização da sua casa?
-Por favor, selecione o local em que\xfffetu vives.
-Por favor, selecione a área em que\xfffetu vives.
-Uma vez registrado, não podes\xfffealterar os teus dados.\xf000븀\x0000Esta localização deve ser registrada\xf000븁\x0000ほ\xfffecomo tua morada?
+O que gostaria de fazer?
+Aqui, você pode registrar a localização\xfffede onde moras.\xf000븀\x0000Essa informação pode ser fornecida a\xf000븁\x0000amigos e desconhecidos através do\xfffeDS Wireless Communications ou do\xf000븀\x0000Nintendo WFC.\xf000븀\x0000\xf000븀\x0000\xf000븁\x0000あなたGostaria de registrar a \xfffelocalização da sua casa?
+Por favor, selecione o local em que\xfffevocê mora.
+Por favor, selecione a área em que\xfffevocê mora.
+Uma vez registrado, não pode\xfffealterar os seus dados.\xf000븀\x0000Esta localização deve ser registrada\xf000븁\x0000ほ\xfffecomo tua casa?
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
 Sim
@@ -11,7 +11,7 @@ Não
 Ver a lista
 Registrar
 Sair
-\xf000ȅ\x0000View
-A tua localizção:\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
+\xf000ȅ\x0000Ver
+A sua localização:\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
 Para exibir localizações registadas, alinhe\xfffeo cursor, e aperte o botão X.
 \xf000ȅ\x0000Sair
