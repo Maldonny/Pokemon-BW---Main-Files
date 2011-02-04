@@ -1,7 +1,7 @@
 !
 !
 !
-\xf000ā\x0001\x0000 usou\xfffePound!
+\xf000ā\x0001\x0000 uso\xfffePound!
 O \xf000ā\x0001\x0000 selvagem usou\xfffePound!
 O inimigo \xf000ā\x0001\x0000 usou\xfffePound!
 \xf000ā\x0001\x0000 usou\xfffeKarate Chop!
