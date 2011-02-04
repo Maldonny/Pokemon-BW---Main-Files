@@ -328,16 +328,16 @@ A receber os dados de Dress-Up...
 A enviar dados da tua caixa...
 A receber dados da caixa...
 Não tens dados gravados para enviar.\xfffeTira uma foto no túnel Goldenrod.
-Os mesmo dados não podem ser enviados.\xfffeToca no ecrã tactil para continuar.
-A receber o video da batalha...
-Não foi encontrada correspondência...\xfffeToca no ecrã tactil para continuar.
-Não foram encontradas correspondências para a caixa...\xfffeToca no ecrã tactil para continuar.
+Os mesmo dados não podem ser enviados.\xfffeToca no ecrã para continuar.
+Recebendo o video da batalha...
+Não foi encontrada correspondência...\xfffeToca no ecrã para continuar.
+Não foram encontradas correspondências para a caixa...\xfffeToca no ecrã para continuar.
 O teu video da batalha foi enviado.\xfffeVideo no.: \xf000ȁ\x0001\x0000－\xf000Ȅ\x0001\x0001－\xf000Ȅ\x0001\x0002\xfffe
-O jogo vai ser gravado antes de veres\xfffeos videos das batalhas.
-A apagar dados... A gravar muitos\xfffedados... Por favor não desligues.
-A gravar muitos dados...\xfffePor favor não desligues.
-A gravar...\xfffePor favor não desligues.
-Não há dados de classificação...\xfffeToca no ecrã tactil para continuar.
+O jogo vai ser gravado antes de ves\xfffeos videos das batalhas.
+Apagando dados... Salvando muitos\xfffedados... Por favor não desligue.
+Salvando muitos dados...\xfffePor favor não desligue.
+Salvando...\xfffePor favor não desligue.
+Não há dados de classificação...\xfffeToque no ecrã para continuar.
 Gostarias de enviar o teu video da batalha?
 
 　
@@ -348,25 +348,25 @@ Gostarias de enviar o teu video da batalha?
 　
 　
 Últimos 20 Na caixa favorita do PC
-Últimos 20 Na caixa fixe do PC
+Últimos 20 Na caixa legal do PC
 Últimos 20 Na caixa fofa do PC
 Últimos 20 Na caixa de sugestão do PC
 Últimos 20 Na caixa engraçada do PC
-Últimos 20 Na caixa seleccionada do PC
-Miudo da Escola♂
-Apanhador de Insectos
+Últimos 20 Na caixa selecionada do PC
+Pirralho da Escola♂
+Caçador de insetos
 Treinador Campeão♂
 Fortão
 Maniaco das Ruinas
-Cinturão Preto
-Rapaz Rico
+Black Belt
+Garoto Rico
 Psíquico♂
-Rapariga
-Rapariga da Batalha
-Beleza
+Moça
+Garota Lutadora
+Bela
 Treinadora Campeã♀
-Idola
-Sociável
+Idolo
+Socialite
 CowGirl
 Senhora
-Dourada
+Goldver
