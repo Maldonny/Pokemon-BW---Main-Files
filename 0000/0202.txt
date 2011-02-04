@@ -1,11 +1,11 @@
-Ensinar que movimento\xfffea \xf000Ă\x0001\x0000?
+Ensinar que movimento\xfffeao \xf000Ă\x0001\x0000?
 Ensinar o movimento\xfffe\xf000ć\x0001\x0001?
-Desistir de ensinar o movimento\xfffea \xf000Ă\x0001\x0000?
+Desistir de ensinar o movimento\xfffeao \xf000Ă\x0001\x0000?
 O\xf000Ă\x0001\x0000 aprendeu\xfffe\xf000ć\x0001\x0001!
-O\xf000Ă\x0001\x0000 quer aprender o\xfffemovimento \xf000ć\x0001\x0001.\xf000븁\x0000Mas, o \xf000Ă\x0001\x0000 já\xfffesabe quatro movimentos.\xf000븁\x0000Devera um movimento ser apagado\xfffepara substituir o\xf000ć\x0001\x0001?
-1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 and...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 esqueceu como usar\xfffe \xf000ć\x0001\x0001.\xf000븁\x0000E...\xf000븁\x0000
-\xf000Ă\x0001\x0000 aprendeu\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
-Desistir em aprender\xfffe\xf000ć\x0001\x0001?
+O\xf000Ă\x0001\x0000 quer aprender o\xfffemovimento \xf000ć\x0001\x0001.\xf000븁\x0000Mas, o \xf000Ă\x0001\x0000 já\xfffesabe quatro movimentos.\xf000븁\x0000Deseja apagar um movimento\xfffee ensinar o\xf000ć\x0001\x0001?
+1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 e...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 esqueceu o\xfffe \xf000ć\x0001\x0001.\xf000븁\x0000E...\xf000븁\x0000
+\xf000Ă\x0001\x0000 aprendeu o\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
+Desistir de aprender\xfffe\xf000ć\x0001\x0001?
 \xf000Ă\x0001\x0000 não aprendeu\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
 \xf000Ā\x0001\x0002 deu um\xfffeHeart Scale como agradecimento!
 Apagar o movimento \xfffe\xf000ć\x0001\x0000?
@@ -13,10 +13,10 @@ Que movimento devo ensinar \xfffe ao \xf000Ă\x0001\x0000?
 Ensinar \xf000ć\x0001\x0001?
 Desistir de reensinar \xfffeao \xf000Ă\x0001\x0000 um movimento?
 \xf000Ă\x0001\x0000 relembrou\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0004\xf000븅\x0001\x0005\xf000븇\x0000\xf000븁\x0000
-\xf000Ă\x0001\x0000 quer relembrar o\xfffemovimento \xf000ć\x0001\x0001...\xf000븁\x0000Mas, \xf000Ă\x0001\x0000 já conhece\xfffequatro movimentos.\xf000븁\x0000Devera um movimento ser apagado\xfffepara substituir o \xf000ć\x0001\x0001?
-1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 and...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븆\x0001\x0002\xf000븇\x0000\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 esqueceu como\xfffeusar \xf000ć\x0001\x0001.\xf000븁\x0000E...\xf000븁\x0000
-O \xf000Ă\x0001\x0000 reaprendeu\xfffeo movimento esquecido \xf000ć\x0001\x0001!\xf000븅\x0001\x0004\xf000븅\x0001\x0005\xf000븇\x0000\xf000븁\x0000
-Desistiu em reaprender o movimento\xfffe\xf000ć\x0001\x0001?
+\xf000Ă\x0001\x0000 quer relembrar o\xfffemovimento \xf000ć\x0001\x0001...\xf000븁\x0000Mas, \xf000Ă\x0001\x0000 já conhece\xfffequatro movimentos.\xf000븁\x0000Deseja apagar um movimento\xfffee ensinar o \xf000ć\x0001\x0001?
+1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 e...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븆\x0001\x0002\xf000븇\x0000\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 esqueceu como\xfffeusar o \xf000ć\x0001\x0001.\xf000븁\x0000E...\xf000븁\x0000
+O \xf000Ă\x0001\x0000 reaprendeu\xfffeo movimento  \xf000ć\x0001\x0001!\xf000븅\x0001\x0004\xf000븅\x0001\x0005\xf000븇\x0000\xf000븁\x0000
+Desistir de reaprender o movimento\xfffe\xf000ć\x0001\x0001?
 \xf000Ă\x0001\x0000 não reaprendeu\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
 \xf000Ā\x0001\x0000 deu um\xfffeHeart Scale como agradecimento!
 Apagar o movimento \xfffe\xf000ć\x0001\x0000?
@@ -25,7 +25,7 @@ Poder
 Precisão
 PP
 Movimento de Batalha
-Ponto(s) de Atracção
+Ponto(s) de Atração
 Movimento de Concurso
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
