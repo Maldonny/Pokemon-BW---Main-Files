@@ -1,9 +1,9 @@
 Treinador de Pokémons
 Treinadora de Pokémons
-Miúdo
-Miúda
-Miúdo da Escola
-Miúda da Escola
+Pirralho
+Pirralha
+Pirralho da Escola
+Pirralha da Escola
 Tenista
 Futebolista
 Empregado de mesa
@@ -11,10 +11,10 @@ Empregada de mesa
 Líder do Ginásio
 Líder do Ginásio
 Líder do Ginásio
-Infermeira
+Enfermeira
 Educador
 Educadora
-Gémeos
+Gêmeos
 Criador de Pokémons
 Criadora de Pokémons
 Líder do Ginásio
@@ -37,15 +37,15 @@ Psíquico
 Psíquica
 Treinador de Pokémons
 Treinadora de Pokémons
-Equipa Plasma
+Equipe Plasma
 Treinador de Pokémons
-Rapaz Rico
+Garoto Rico
 Senhora
 Piloto
 Trabalhador
-Basketbolista
+Jogador de Basket
 Pesquisador
-Equipa Plasma
+Equipe Plasma
 Secretária
 Treinador Campeão
 Treinadora Campeã
@@ -62,7 +62,7 @@ Pokéfã
 Médico
 Enfermeira
 Gangster
-Rapariga Batalhadora
+Garota Batalhadora
 Senhora Guarda-Sol
 Empresário
 Empresário
@@ -99,7 +99,7 @@ Game Freak
 Burguês
 Burguesa
 Treinador de Pokémons
-Equipa Plasma
+Equipe Plasma
 Mestre do Metro
 Treinador de Pokémons
 Treinadora de Pokémons
