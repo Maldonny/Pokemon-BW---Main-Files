@@ -1,7 +1,7 @@
-Queres ligar a C-Gear?\xfffePor favor lê o aviso em baixo.
-A ligar a C-Gear...\xfffeA conexão wireless da DS\xfffeestá a ser usada por isto.
-Queres desligar a C-Gear?\xfffePor favor lê o aviso em baixo.
-\xf000\xff00\x0001\x0001Bateria fraca!\xf000\xff00\x0001\x0000\xfffeA energia\xfffecontinua a ser utilizada mesmo após\xfffa DS estar fechada. Isto pode causar\xfffeque a bateria fique completamente sem energia.
-Erro a ligar a C-Gear\xfffePor favor\xfffeverifica a tua conexão \xfffe wireless　（５０６９９）
+Quer ativar o C-Gear?\xfffePor favor leia o aviso abaixo.
+Ao ativar o C-Gear...\xfffeA conexão wireless do DS\xfffeserá usada por ele.
+Queres desligar a C-Gear?\xfffePor favor leia o aviso abaixo.
+\xf000\xff00\x0001\x0001ATENÇÃO!\xf000\xff00\x0001\x0000\xfffeEm locais com restrições\xfffede comunicação wireless,\xfffecomo aviões ou hospitais,\xfffepor favor desligue o C-Gear.
+C-Gear não pôde ser ativado.\xfffeAs comunicações por\xffferadio estão desligadas.\xfffePPor favor, ligue comunicações nas\xfffeconfigurações do wireless. (50699)
 Sim
 Não
