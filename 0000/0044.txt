@@ -1,19 +1,19 @@
-Que língua preferes?\xfffePortuguês ou Inglês(nao usar)?\xf000븁\x0000
+Escolha o idioma:\xfffePortuguês ou Japonês\xf000븁\x0000
 Português
-Inglês
+Japonês
 それでは　ゲームで　つかう　もじは\xfffeひらがな・カタカナに　します\xf000븁 \x0000
 não há dados
 Por favor aguarde...\xfffe
 Olá！\xfffeBem-vindo ao mundo dos Pokémon!\xf000븁\x0000
-O meu nome é Araragi, mas toda a gente\xfffeme chama Professora Pokémon.\xf000븁\x0000
-Okay! Este mundo está cheio de\xfffePocket Monsters...\xf000븁\x0000Bem, são normalmente chamados de "Pokémon"!\xfffeE são criaturas fantásticas!\xf000븁\x0000
+O meu nome é Juniper, mas todos me\xfffechamam de Professora Pokémon.\xf000븁\x0000
+Este mundo está cheio de\xfffePocket Monsters...\xf000븁\x0000Bem, são normalmente chamados de "Pokémon"!\xfffeE são criaturas fantásticas!\xf000븁\x0000
 Os Pokémon têm poderes milagrosos,\xfffede todas as formas e tamanhos,\xf000븀\x0000habitados em todos o tipo de lugares...\xf000븁\x0000E nós humanos vivemos\xfffejuntos em harmonia com eles!\xf000븁\x0000Nós estamos sempre lá juntos\xfffepara ajudar.\xf000븁\x0000Mas unir forças para ajudar-nos \xfffeum ao outro pode ser uma tarefa dificil.\xf000븁\x0000E apesar do seu papel de todos,\xfffeé fazer combates entre Pokémon\xf000븀\x0000só liga-os mais aos humanos.\xf000븁\x0000E é por isso que estudo os Pokémon.\xf000븁\x0000
 Agora, chega de falar\xfffesobre mim...\xf000븁\x0000Não vais dizer algo sobre ti?\xf000븁\x0000
-És rapaz?\xfffeOu rapariga?\xf000븁\x0000
-Então, és um rapaz?\xf000븁\x0000
-Então,és uma rapariga?\xf000븁\x0000
-Rapaz
-Rapariga
+Você é menino?\xfffeOu menina?\xf000븁\x0000
+Então, você é menino?\xf000븁\x0000
+Então, você é menina?\xf000븁\x0000
+Menino
+Menina
 Bem, agora gostaria de saber o teu nome.\xfffeComo te chamas?\xf000븁\x0000
 Então o teu nome é \xf000Ā\x0001\x0000?\xf000븁\x0000
 Então o teu nome é \xf000Ā\x0001\x0000?\xf000븁\x0000
@@ -21,13 +21,13 @@ Sim
 Não
 \xf000Ā\x0001\x0000!\xfffeExcelente nome!\xf000븁\x0000
 \xf000Ā\x0001\x0000, deixa-me apresentar-te a quem te\xfffeacompanhará na tua jornada em Unova.\xf000븁\x0000
-Este é o Chelon.\xf000븁\x0000Ele é um bocado mal-humorado, de vez em\xfffequando, mas é muito sincero!\xf000븁\x0000
-Esta é a Bella.\xf000븁\x0000Ela tem tendência a fazer tudo a seu ritmo,\xfffemas é bastante persistente.\xf000븁\x0000
+Este é o Cheren.\xf000븁\x0000Ele é um muito mal-humorado, de vez em\xfffequando, mas é muito sincero!\xf000븁\x0000
+Esta é a Bel.\xf000븁\x0000Ela tem tendência a fazer tudo a seu ritmo,\xfffemas é bastante persistente.\xf000븁\x0000
 E agora, eu vou dar-vos um presente com\xfffeos vossos tão esperados Pokémon!\xf000븁\x0000
 \xf000Ā\x0001\x0000!\xf000븁\x0000Estás quase pronto para entrar no mundo\xfffedos Pokémon!\xf000븁\x0000Lembra-te que deves seguir sempre em\xfffefrente, aconteça o que acontecer.\xf000븁\x0000Não te esqueças destas palavras!\xf000븁\x0000Vem ao meu laboratório, o mais rápido\xfffepossível!\xf000븁\x0000Agora, vamos entrar no emocionante\xfffemundo dos Pokémon!
-Espera um segundo...!\xfffeEstou a fazer algumas preparações.
-Okey!\xfffeVamos faze-lo!\xf000븁\x0000
-Aviso!\xfffeTens outro relatório escrito,\xfffeestás prestes a iniciar uma jornada,\xfffenão poderás guardar.\xfffeEstá bem?
+Espera um segundo...!\xfffeEstou fazendo algumas preparações.
+Ok!\xfffeVamos faze-lo!\xf000븁\x0000
+Aviso!\xfffeTens outro relatório escrito,\xfffeestás prestes a iniciar uma jornada,\xfffenão poderás salvar.\xfffeEstá bem?
 Começar aventura
 Voltar ao Menu\x0009
 Passar à frente?
