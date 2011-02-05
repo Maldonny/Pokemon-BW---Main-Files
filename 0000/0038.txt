@@ -10,14 +10,14 @@ A Data é: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0000
 ◇O treinador de Kanoko Town venceu o lider de ginásio  Hachiku em Sekka！
 ◇O treinador de Kanoko Town venceu o lider de ginásio  Iris em Souryuu!！
 ◇O treinador de Kanoko Town venceu o lider de ginásio  Shaga em Souryuu！
-◇"Tender love and care! They'll grow up quick!" Route 3 Daycare
-◇"Discover the future told by your names!" Hiun City Name Rater
-◇"What're they up to? Let's survey!" Hiun City Chance-Upon Survey
-◇"Ride and fight on! This train never stops!" Raimon City Battle Subway
-◇"The stairway to stardom begins here!" Raimon City Musical Hall
-◇"Here come your items, over the wind and waves to you!" Hodomoe Market
-◇"We've got it all at Unova's biggest shopping district!" Shopping Mall R9
-◇From Sanyou City, you can smell the refreshing breeze of the forest!
+◇"Trate com amor e carinho! Eles crescem rápido!" Daycare Rota 3
+◇"Descubra o futuro contada por seus nomes!" Alterador de nomes da Cidade de Hiun
+◇"O que vocês estão fazendo? Vamos pesquisar" Hiun City Chance-Upon Survey
+◇"Vencer e continuar a lutar! Esse trem não pára!" Batalha do Metro da Cidade de Raimon
+◇"A escada para o estrelato começa aqui!" salão Musical da Cidade Raimon
+◇"Aí vêm os seus itens, sobre o vento e as ondas com você! " Mercado de Hodomoe
+◇"Nós temos tudo no maior Shopping da Região de Unova!" Shopping Mall R9
+◇Da Cidade Sanyou, você pode sentir o cheiro da brisa refrescante da floresta!
 ◇The stairs leading into the gate prevent snow from piling in.
 ◇Sanyou Gym is a restaurant where you can enjoy both fighting and dining!
 ◇Lushgreen Park will warm your heart!
