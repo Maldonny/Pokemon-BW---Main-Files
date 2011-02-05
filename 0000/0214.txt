@@ -2,14 +2,14 @@ None
 Acre
 Rondonia
 Alagoas
-Amapa
+Amapá
 Amazonas
 Bahia
-Ceara
+Ceará
 Distrito Federal
 Espirito Santo
-Goias
-Maranhao
+Goiás
+Maranhão
 Mato Grosso
 Mato Grosso do Sul
 Minas Gerais
@@ -23,6 +23,6 @@ Rio Grande do Sul
 Rio Grande do Norte
 Roraima
 Santa Catarina
-Sao Paulo
+São Paulo
 Sergipe
 Tocantins
