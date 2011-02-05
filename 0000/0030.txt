@@ -1,14 +1,14 @@
 Opções
 Veloc. de texto
-Cena de batalha
+Animações
 Estilo de batalha
 Som
-Texto de exibição
+Idioma
 Moldura
 IR Relatório
 Confirmar
 Sair
-Devagar
+Lento
 Médio
 Rápido
 Ligado
@@ -27,7 +27,7 @@ A Velocidade de texto pode ser configurada\xfffe em 3 tipos diferentes.
 Optar por exibir animações de batalha.
 Escolha as normas-padrão\xfffede mudança de Pokémon no campo de batalha.
 Escolha a colocar o som\xfffeem estéreo ou em mono.
-Escolha como exibir texto.\xfffeKanji é uma língua Japonesa.
+Escolha como exibir texto.\xfffePode escolher Português ou Japonês.
 Escolha ter comunicação wireless\xfffesempre ligado ou desligado.
 Escolha se deseja escrever um relatório\xfffebefore C-Gear infrared communications.
 Outro relatório já foi escrito,\xfffeentão isso não pode ser mudado.\xf000븁\x0000
