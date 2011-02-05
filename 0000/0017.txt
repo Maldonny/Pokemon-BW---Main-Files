@@ -33,9 +33,9 @@ O teu inimigo está fraco!\xfffeAcaba com ele, \xf000Ă\x0001\x0000!
 Bateu \xf000Ȁ\x0001\x0000 vez(es)!
 \xf000Ā\x0001\x0000 usou\xfffe \xf000ĉ\x0001\x0001!
 \xf000Ā\x0001\x0000 usou\xfffe \xf000ĉ\x0001\x0001!
-\xf000Ď\x0001\x0000の　\xf000Ā\x0001\x0001は\xfffe\xf 000ĉ\x0001\x0002を　つかった！
-\xf000Ā\x0001\x0000が　\xf000Ă\x0001\x0001に\xfffe\xf 000ĉ\x0001\x0002を　シュートした！！
-いまは　ミラクルシューターを\xfffeつかうことが　できない！
+\xf000Ď\x0001\x0000's \xf000Ā\x0001\x0001\xfffeused a \xf000ĉ\x0001\x0002!
+\xf000Ā\x0001\x0000 shot a\xfffe\xf000ĉ\x0001\x0002 to \xf000Ă\x0001\x0001!!
+The Miracle Shooter\xfffecan't be used now!
 \xf000Ā\x0001\x0000 rodou o Pokémon\xfffepara a esquerda！
 \xf000Ā\x0001\x0000 rodou o Pokémon\xfffepara a esquerda！
 \xf000Ā\x0001\x0000 rodou o Pokémon\xfffepara a direita！
@@ -71,35 +71,35 @@ O que \xf000Č\x0001\x0000 irá fazer?
 O que \xf000Ā\x0001\x0000 irá fazer?
 \xf000븉\x0001<Mas falhou!
 Escapou a salvo!
-にげられなかった！
+Couldn't run!
 Não podes fugir!
-やせいの　\xf000Ă\x0001\x0000は\xfffeにげだした！
+The wild \xf000Ă\x0001\x0000\xffferan away!
 Não! Não dá para fugir \xfffenum combate!
 Queres\xfffe desistir?
 É bastante eficaz!
 Não é muito eficaz...
 Magou-se a si mesmo na sua \xfffeconfusão!
-きゅうしょに　あたった！
-しかし　わざの　のこりポイントが\xfffeなかった！
-たすけにきた　\xf000Ā\x0001\x0000の　おかげで\xfffe\xf000Ă\x000 1\x0001の\xf000븀\x0000たいりょくが　かいふくした！
+A critical hit!
+But there was\xfffeno PP left for the move!
+Thanks to \xf000Ā\x0001\x0000's aid,\xfffe\xf000Ă\x0001\x0001's HP was recovered!
 A luz do sol virou áspero!
 Está a começar a chover!
 Vem aí uma tempestade de areia!
 Está a começar a cair granizo!
-きりが　ただよいはじめた！
-ひざしが　もとに　もどった！
+Fog started rolling in!
+The sunlight returned to normal.
 Está a parar de chover!
 A tempestade está a mudar de sentido.
 Parou de cair granizo!
-きりが　はれた！
-てんこうの　えいきょうが　なくなった！
-すなあらしが　ふきあれる！
-あられが　ふきすさぶ！
+The fog cleared.
+The weather effect disappeared!
+The sandstorm blew wildly!
+The storm blew fiercely!
 De uma pancada KO!
-\xf000ĉ\x0001\x0000は\xfffe\xf000ć\x0001\x0001の　いりょ くを　よわめた！
-\xf000ĉ\x0001\x0000の　こうかで\xfffe\xf000ć\x0001\x0001 しか　だせない！
-\xf000Č\x0001\x0000は\xfffe\xf000ć\x0001\x0001しか　だせ ない！
-すべてのステータスが\xfffeもとに　もどった！
+\xf000ĉ\x0001\x0000 weakened\xfffe\xf000ć\x0001\x0001!
+Because of \xf000ĉ\x0001\x0000,\xfffeonly \xf000ć\x0001\x0001 can be used!
+\xf000Č\x0001\x0000 can only\xfffeuse \xf000ć\x0001\x0001!
+All stat changes were\xfffeeliminated!
 Mas nada aconteceu!
 \xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
 Magnitude 4!
@@ -118,8 +118,8 @@ As dimensões torcidas voltaram ao\xfffenormal!
 A Gravidade está intensa!
 A Gravidade voltou ao normal!
 Todos os Pokémon estão a ouvir a musica\xfffevai desmaiar em três turnos!
-ゆびをふったら　\xf000ć\x0001\x0000がでた！
-しぜんのちからは\xfffe\xf000ć\x0001\x0000　になった！
+All Pokémon hearing the song\xfffewill faint in three turns!
+User randomly used\xfffe\xf000ć\x0001\x0000!
 Moedas espalhadas por toda a parte!
 Ele estava fraco demais para fazer\xfffea substituição!
 O Reflexo aumenta a defesa da tua\xfffeequipa!
@@ -136,8 +136,8 @@ A tua equipa já não é mais protegida pelo\xfffeSafeguard!
 A equipa adversária já não é mais protegida pelo\xfffeSafeguard!
 A sua equipa ficou rodeada\xfffeem neblina!
 A equipa adversária ficou rodeada\xfffeem neblina!
-みかたを　つつんでいた\xfffeしろいきりが　なくなった！
-あいてを　つつんでいた\xfffeしろいきりが　なくなった！
+The mist around\xfffeyour team vanished!
+The mist around\xfffethe foe vanished!
 O vento sopra por detrás\xfffeda tua equipa!
 O vento sopra por detrás \xfffedo inimigo!
 O Tailwind da tua equipa definhou!
@@ -148,44 +148,44 @@ O Lucky Chant da tua equipa desgastou!
 O Lucky Chant inimigo desgastou!
 Picos estão espanhados por toda\xfffea area da tua equipa!
 Picos estão espanhados por toda\xfffea area adversária!
-みかたの　あしもとの\xfffeまきびしが　きえさった！
-あいての　あしもとの\xfffeまきびしが　きえさった！
+The spikes scattered all around\xfffeyour team's feet went away!
+The spikes scattered all around\xfffethe feet of the enemy team went away!
 Gotas de Veneno estavam espalhadas por toda\xfffea area da tua equipa!
 Gotas de Veneno estavam espalhadas por toda\xfffea area adversária!
 As gotas de Veneno desapareceram da\xfffearea da tua equipa!
 As gotas de Veneno desapareceram da\xfffearea adversária!
 Pedras pontiaguadas flutuam no ar\xfffeá volta da tua equipa!
 Pedras pontiaguadas flutuam no ar\xfffeá volta da equipa adversária!
-みかたの　まわりの\xfffeステルスロックが　きえさった！
-あいての　まわりの\xfffeステルスロックが　きえさった！
-みかたの　まわりを\xfffeワイドガードが　まもっている！
-あいての　まわりを\xfffeワイドガードが　まもっている！
-みかたの　まわりを\xfffeファストガードが　まもっている！
-あいての　まわりを\xfffeファストガードが　まもっている！
-みかたの　そらに　にじが　かかった！
-あいての　そらに　にじが　かかった！
-みかたの　そらから　にじが　きえた！
-あいての　そらから　にじが　きえた！
-みかたの　まわりが\xfffeひのうみに　つつまれた！
-あいての　まわりが\xfffeひのうみに　つつまれた！
-みかたの　まわりの\xfffeひのうみが　きえさった！
-あいての　まわりの\xfffeひのうみが　きえさった！
-みかたの　まわりに\xfffeしつげんが　ひろがった！
-あいての　まわりに\xfffeしつげんが　ひろがった！
-みかたの　まわりの\xfffeしつげんが　きえさった！
-あいての　まわりの\xfffeしつげんが　きえさった！
-みかたは　きんちょうして\xfffeきのみが　たべられなくなった！
-あいては　きんちょうして\xfffeきのみが　たべられなくなった！
-ぼうぎょと　とくぼうが　いれかわる\xfffeくうかんを　つくりだした！
-ワンダールームが　かいじょされ\xfffeぼうぎょと　とくぼうが　もとにもどった！
-もたせた　どうぐの　こうかが\xfffeなくなる　くうかんを　つくりだした！
-マジックルームが　かいじょされ\xfffeどうぐの　こうかが　もとにもどった！
-\xf000ĉ\x0001\x0000は　\xf000ć\x0001\x0001の\xfffeいりょ くを　つよめた！
-せいげんじかんが　なくなりました！\xfffeたいせんを　しゅうりょう　します！
-しょうぶの　じかんが　ながすぎるため\xfffeさいせいを　ちゅうだん　します！
-ダルマモード　はつどう！
-ダルマモード　かいじょ！
-２つのわざが　ひとつになった！\xfffeコンビネーションわざだ！
+The pointed stones floating\xfffe around your team went away!
+The pointed stones floating\xfffe around the enemy team went away!
+Your team is protected\xfffeby Wide Guard!
+The enemy team is protected\xfffeby Wide Guard!
+Your team is protected\xfffeby Fast Guard!
+The enemy team is protected\xfffeby Fast Guard!
+A rainbow reached across\xfffethe sky above your team!
+A rainbow reached across\xfffethe sky above the enemy team!
+The rainbow disappeared from\xfffethe sky above your team!
+The rainbow disappeared from\xfffethe sky above the enemy team!
+Your team was engulfed\xfffein a sea of fire!
+The enemy team was engulfed\xfffein a sea of fire!
+The sea of fire around\xfffeyour team disappeared!
+The sea of fire around\xfffethe enemy team disappeared!
+Wetlands extended out\xfffearound your team!
+Wetlands extended out\xfffearound the enemy team!
+The wetlands around\xfffeyour team disappeared!
+The wetlands around\xfffethe enemy team disappeared!
+Your team was made\xfffetoo nervous to eat berries!
+The enemy team was made\xfffetoo nervous to eat berries!
+An area that reverses Defense\xfffeand Sp. Defense was created!
+Wonder Room ceased, and\xfffeDefense and Sp. Defense returned to normal!
+An area that removes the effect\xfffeof held items was created!
+Magic Room ceased, and\xfffehold items regained their effect!
+\xf000ĉ\x0001\x0000 increased\xfffe\xf000ć\x0001\x0001's power!
+The time limit ran out!\xfffeThe battle will be ended!
+The battle went on too long,\xfffeso playback will be suspended!
+Daruma mode activated!
+Daruma mode ceased!
+Two moves turned into one!\xfffeIt's a combination move!
 O \xf000Č\x0001\x0000 não quer obedecer!
 O \xf000Č\x0001\x0000 está\xfffea vadiar ao redor!
 O \xf000Č\x0001\x0000 virou-se!
@@ -193,8 +193,8 @@ O \xf000Č\x0001\x0000 fingiu\xfffenão ter visto!
 O \xf000Č\x0001\x0000 ignora as ordens!
 O \xf000Č\x0001\x0000 começou a dormir!
 O \xf000Č\x0001\x0000 ignorou\xfffeas ordens enquanto dormia!
-リセットムーブ！！
-しかし　この　どうぐを\xfffeつかえる　ばしょに　いなかった！
-\xf000Č\x0001\x0000は　フリーフォールで\xfffeじゆうに　ならない！
-こうさんが　えらばれました
-（\xf000Ȁ\x0001\x0000）のゆびをふる　\xf000Ȃ\x0001\x0001：\x f000ć\x0001\x0002
+Reset Move!!
+But there's nowhere\xfffeto use this item!
+\xf000Č\x0001\x0000 can't act freely\xfffebecause of Freefall!
+Chose to give in.
+(\xf000Ȁ\x0001\x0000)'s Metronome \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
