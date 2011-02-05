@@ -503,32 +503,32 @@ A nice photo album for storing all the\xfffephotos taken along your adventure.
 A music player that allows you to listen\xfffeto nostalgic songs. It's operated with\xfffea single switch.
 An old-fashioned bell with a gentle,\xfffesoothing sound.
 A famous candy in Mahogany Town. Many\xfffetourists like to buy them to take home.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many victories\xfffeyou've had.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many\xfffelosses you've had.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times your\xfffePokémon have dashed.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times your\xfffePokémon have jumped.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times you've\xfffewon the Hurdle Dash.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times you've\xfffewon the Relay Run.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times you've\xfffewon Pennant Capture.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times you've\xfffewon Block Smash.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times you've\xfffewon Disc Catch.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times you've\xfffewon Snow Throw.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many points\xfffeyour Pokémon scored.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times your\xfffePokémon have failed.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times your\xfffePokémon impeded themselves.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times your\xfffePokémon have tackled.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times your\xfffePokémon have fallen down.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times you've\xfffewon Ring Drop.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times you've\xfffewon Lamp Jump.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times you've\xfffewon Circle Push.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many\xfffeLink Pokéathlon wins you've had.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many\xfffeLink Pokéathlon losses you've had.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times\xfffeyou've won an event.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times\xfffeyou've lost an event.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times you've\xfffeswitched Pokémon.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times you've\xfffewon Goal Roll.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times your\xfffePokémon won individual prizes.
-Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how many times you've\xfffeinstructed your Pokémon.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas victories\xfffeyou've had.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas\xfffelosses you've had.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times your\xfffePokémon have dashed.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times your\xfffePokémon have jumped.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times you've\xfffewon the Hurdle Dash.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times you've\xfffewon the Relay Run.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times you've\xfffewon Pennant Capture.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times you've\xfffewon Block Smash.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times you've\xfffewon Disc Catch.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times you've\xfffewon Snow Throw.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas points\xfffeyour Pokémon scored.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times your\xfffePokémon have failed.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times your\xfffePokémon impeded themselves.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times your\xfffePokémon have tackled.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times your\xfffePokémon have fallen down.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times you've\xfffewon Ring Drop.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times you've\xfffewon Lamp Jump.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times you've\xfffewon Circle Push.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas\xfffeLink Pokéathlon wins you've had.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas\xfffeLink Pokéathlon losses you've had.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times\xfffeyou've won an event.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times\xfffeyou've lost an event.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times you've\xfffeswitched Pokémon.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times you've\xfffewon Goal Roll.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times your\xfffePokémon won individual prizes.
+Ele guarda os registros do Pokéathlon. É um\xfffecartão que mostra quantas times you've\xfffeinstructed your Pokémon.
 Ele guarda os registros do Pokéathlon. It's a\xfffecard that shows how much time you've\xfffespent in the Pokéathlon.
 A shiny green orb that is said to have\xfffea legend and has a deep connection with\xfffethe Hoenn region.
 A sturdy Capsule that can only be\xfffeopened with a special key.
