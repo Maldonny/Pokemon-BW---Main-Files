@@ -1,7 +1,7 @@
-Por favor insere o friend code
-Por favor insere o número do treinador(01 - \xf000È\x0001\x0000ï¼‰
-Por favor insere o rank (01 - \xf000È\x0001\x0000ï¼‰
+Por favor insera o Friend Code
+Por favor insera o número do treinador(01 - \xf000È\x0001\x0000ï¼‰
+Por favor insera o rank (01 - \xf000È\x0001\x0000ï¼‰
 Apagar
 Fim
-O número do treinador não estava correcto. \xfffe\xf000È\x0001\x0000 Por favor tenta de novo. 
-O rank não estava correcto.\xfffe\xf000È\x0001\x0000 Por favor tenta de novo.
+O número do treinador não está correto. \xfffe\xf000È\x0001\x0000 Por favor tente de novo. 
+O rank não está correto.\xfffe\xf000È\x0001\x0000 Por favor tente de novo.
