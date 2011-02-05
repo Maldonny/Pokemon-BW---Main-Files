@@ -1,4 +1,4 @@
-Coleccionista
+Colecionador
 Atleta
 Rato de biblioteca
 Músico
