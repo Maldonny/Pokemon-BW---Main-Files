@@ -6,7 +6,7 @@
 Touch the bottom screen\xfffemenu to start!
 Check Start
 Ranking
-Back
-Quit
+Voltar
+Sair
 Feeling Check
 シーンが ずれました\xfffeさきへ すすみます
