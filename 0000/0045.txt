@@ -1,45 +1,45 @@
-﻿Linked with\xfffe\xf000Ā\x0001\x0000's world!
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
-\xf000Ā\x0001\x0000 is in the High-Link.
-\xf000Ā\x0001\x0001 is in the High-Link.
-\xf000Ā\x0001\x0002 is in the High-Link.
-\xf000Ā\x0001\x0003 is in the High-Link.
-Able to enter\xfffe\xf000Ā\x0001\x0000's world.
-Able to enter\xfffe\xf000Ā\x0001\x0000's world.
-Able to enter\xfffe\xf000Ā\x0001\x0000's world.
-Able to enter\xfffe\xf000Ā\x0001\x0000's world.
-\xf000Ā\x0001\x0000 returned to the High-Link.
-\xf000Ā\x0001\x0001 returned to the High-Link.
-\xf000Ā\x0001\x0002 returned to the High-Link.
-\xf000Ā\x0001\x0003 returned to the High-Link.
-\xf000Ā\x0001\x0000 left the High-Link.
-\xf000Ā\x0001\x0001 left the High-Link.
-\xf000Ā\x0001\x0002 left the High-Link.
-\xf000Ā\x0001\x0003 left the High-Link.
-Ending communications...
-\xf000Ā\x0001\x0000 came to town!
-\xf000Ā\x0001\x0001 came to town!
-\xf000Ā\x0001\x0002 came to town!
-\xf000Ā\x0001\x0003 came to town!
-In \xf000Ā\x0001\x0000's High-Link.
-In \xf000Ā\x0001\x0001's High-Link.
-In \xf000Ā\x0001\x0002's High-Link.
-In \xf000Ā\x0001\x0003's High-Link.
-\xf000Ā\x0001\x0000 entered\xfffe\xf000Ā\x0001\x0001's High-Link.
-\xf000Ā\x0001\x0000 returned\xfffeto their own High-Link.
-Linked with\xfffe\xf000Ā\x0001\x0000's world!
-\xf000Ā\x0001\x0000 returned\xfffeto their own world.
-Mission starting soon.\xfffeParticipants, press Enter.
-Mission starting soon.\xfffePlease wait a moment.
-On a mission.
-Mission was completed.
-Mission was failed.
-\xf000Ā\x0001\x0000 received an Exit Power\xfffefrom\xfffe\xf000Ā\x0001\x0001's High-Link.
-\xf000Ā\x0001\x0000 received an Exit Power\xfffefrom their own High-Link.
-\xf000Ā\x0001\x0000 is\xfffein this area.
-Linking with \xf000Ā\x0001\x0000's world...\xfffePlease wait.
+﻿Ligado com o mundo do(a)\xfffe\xf000Ā\x0001\x0000
+﻿Ligado com o mundo do(a)\xfffe\xf000Ā\x0001\x0000
+﻿Ligado com o mundo do(a)\xfffe\xf000Ā\x0001\x0000
+﻿Ligado com o mundo do(a)\xfffe\xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000 está no High-Link.
+\xf000Ā\x0001\x0001 está no High-Link.
+\xf000Ā\x0001\x0002 está no High-Link.
+\xf000Ā\x0001\x0003 está no High-Link.
+Capaz de entrar no mundo do(a)\xfffe\xf000Ā\x0001\x0000
+Capaz de entrar no mundo do(a)\xfffe\xf000Ā\x0001\x0000
+Capaz de entrar no mundo do(a)\xfffe\xf000Ā\x0001\x0000
+Capaz de entrar no mundo do(a)\xfffe\xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000 voltou do High-Link.
+\xf000Ā\x0001\x0001 voltou do High-Link.
+\xf000Ā\x0001\x0002 voltou do High-Link.
+\xf000Ā\x0001\x0003 voltou do High-Link.
+\xf000Ā\x0001\x0000 deixou o High-Link.
+\xf000Ā\x0001\x0001 deixou o High-Link.
+\xf000Ā\x0001\x0002 deixou o High-Link.
+\xf000Ā\x0001\x0003 deixou o High-Link.
+Encerrando comunicações...
+\xf000Ā\x0001\x0000 veio para a cidade!
+\xf000Ā\x0001\x0001 veio para a cidade!
+\xf000Ā\x0001\x0002 veio para a cidade!
+\xf000Ā\x0001\x0003 veio para a cidade!
+No High-Link de\xf000Ā\x0001\x0000.
+No High-Link de\xf000Ā\x0001\x0001.
+No High-Link de\xf000Ā\x0001\x0002.
+No High-Link de\xf000Ā\x0001\x0003.
+\xf000Ā\x0001\x0000 entrou no High-Link de\xfffe\xf000Ā\x0001\x0001.
+\xf000Ā\x0001\x0000 voltou\xfffeao seu próprio High-Link.
+﻿Ligado com o mundo do(a)\xfffe\xf000Ā\x0001\x0000!
+\xf000Ā\x0001\x0000 voltou\xfffeao seu próprio High-Link.
+Missão começará em breve.\xfffeParticipantes, pressione Enter.
+Missão começará em breve.\xfffeEspere um momento.
+Em uma missão.
+Missão foi concluída.
+Missão falhou.
+\xf000Ā\x0001\x0000 recebeu um Exit Power\xfffedo High-Link de\xfffe\xf000Ā\x0001\x0001.
+\xf000Ā\x0001\x0000 recebeu um Exit Power\xfffedo seu próprio High-Link.
+\xf000Ā\x0001\x0000 está\xfffenesta area.
+﻿Ligando com o mundo do(a) \xf000Ā\x0001\x0000\xfffeEspere um momento.
 \xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001's\xfffeworlds are linking... Please wait.
 "Up!" \xf000Ā\x0001\x0000 is in this area,\xfffesomewhere in front of you!
 "Down!" \xf000Ā\x0001\x0000 is in this area,\xfffesomewhere behind you!
