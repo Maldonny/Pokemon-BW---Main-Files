@@ -17,27 +17,27 @@ ID \xf000Ȅ\x0001\x0000
 \xf000Ȁ\x0001\x0000/4
 Por favor, escolha um amigo.
 Chamar Amigo
-さんかする
-A chamar amigo!
-A chamar amigo.
-A chamar amigo..
-A chamar amigo...
-A conectar!
-A conectar.
-A conectar..
-A conectar...
+Enter
+Chamando amigo!
+Chamando amigo.
+Chamando amigo..
+Chamando amigo...
+Conectando!
+Conectando.
+Conectando..
+Conectando...
 A procurar por amigo!
 A procurar por amigo.
 A procurar por amigo..
 A procurar por amigo...
-Concluir Livecasting?
-Está bem parar o leitor\xfffee desconectar?
+Parar de usar\xfffeLive Caster??
+Se o líder sair, o grupo\xfffevai se dissolver. Está bem assim?
 Sim
 Não
-Parando o leitor e desconectando.
-O teu oponente desconectou-se.
+O Lider saiu, então\xfffeo grupo irá se dissolver.
+Seu parceiro saiu, então\xfffeo grupo irá se dissolver.
 Todos os outros membros sairam.
-よびだしに しっぱいしました
-せつぞくに しっぱいしました
-ペアレンタルコントロールの\xfffeせっていにより しゃしんデータの\xfffeそうじゅしんが せいげん\xfffeされています\xfffeがぞうを だしたいときは\xfffeほんたいせっていで\xfffeせいげんを かいじょ してください
-あいての しゅうりょうを まっています
+Houve um erro ao chamar.
+Houve um erro na ligação.
+Devido a controles parentais,\xfffea transferência de dados de fotografias\xfffeestá restrita.\xfffeSe você quiser ver as imagens,\xffferemova as restrições\xfffeno menu de Configurações.
+Esperando seu parceiro terminar.
