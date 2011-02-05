@@ -2,7 +2,7 @@ Ousado
 Solitário
 Corajoso
 Inflexível
-Malcriado
+Desobediente
 Negrito
 Dócil
 Relaxado
@@ -17,8 +17,8 @@ Modesto
 Leve
 Calma
 Tímido
-Erupção cutânea
-Calma
+Imprudente
+Calmo
 Suave
 Petulante
 Cuidadoso
