@@ -18,20 +18,20 @@ Configuração
 Estéreo
 Mono
 Português
-Kanji
+Japonês
 Escrever
 Desligado
-かく
-かかない
+Escrever
+Não
 A Velocidade de texto pode ser configurada\xfffe em 3 tipos diferentes.
 Optar por exibir animações de batalha.
 Escolha as normas-padrão\xfffede mudança de Pokémon no campo de batalha.
 Escolha a colocar o som\xfffeem estéreo ou em mono.
 Escolha como exibir texto.\xfffeKanji é uma língua Japonesa.
-いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
-Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
-べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
-Queres gravar? Se tu\xfffenão o fizeres, todas as mudanças vão ser perdidas.
+Escolha ter comunicação wireless\xfffesempre ligado ou desligado.
+Escolha se deseja escrever um relatório\xfffebefore C-Gear infrared communications.
+Outro relatório já foi escrito,\xfffeentão isso não pode ser mudado.\xf000븁\x0000
+Quer salvar? Se você\xfffenão salvar, todas as mudanças vão ser perdidas.
 Sim
 Não
-ダミーメッセージ
+Dummy Message
