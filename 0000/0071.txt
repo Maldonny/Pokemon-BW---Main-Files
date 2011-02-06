@@ -1,30 +1,30 @@
-A Carregar... \xfffePor favor aguarde...
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　ポケシフターを\xfffeきどうしなおして　ください\xf000븁\x0000
-ポケシフター　きどうちゅう……\xfffeまもなく　はじまります
-レポートに　かきこんでいます\xfffeでんげんを　きらないでください
-レポートに　かきこみました\xf000븂\x0001<
-もういちど　ポケシフターで\xfffeあそびますか？
-ポケシフターを　しゅうりょうします\xfffeでんげんを　きって\xfffeしゅうりょうしてください
-もう１つの　ＤＳに\xfffeボックスの　あきが　たりません\xf000븁\x0000
-ポケシフターで　つかまえられる\xfffeポケモンが\xfffeボックスに　６ひき　いません\xf000븁\x0000
-データの　よみこみに\xfffeしっぱい　しました\xf000븁\x0000
-もう１つの　ＤＳの\xfffeせつぞくに　しっぱい　しました\xf000븁\x0000
-データの　かきこみに\xfffeしっぱい　しました\xf000븁\x0000
-つれてきた　ポケモンは\xfffeもう　もとの　ばしょには\xf000븁\x0000もどれませんが\xfffeほんとうに　よろしいですか？
-ポケモンを　もとのちほうに\xfffeかえしました\xf000븁\x0000
-レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります\xf000븁\x0000
-ただしい　ソフトが　ささっていません\xfffeでんげんをきり　ただしい　ソフトを\xfffeさしてから　ポケシフターを\xfffeきどうしなおして　ください\xf000븁\x0000
-Sim
-Não
+Loading... \xfffePlease wait a moment...
+The incorrect DS card is in\xfffeSlot 1.\xfffe\xfffePlease power on a DS with either\xfffePokémon Diamond, Pearl, Platinum,\xfffeHeart Gold, or Soul Silver\xfffein Slot 1.\xfffePlease restart the system.\xf000븁\x0000
+Starting the PokéShifter...\xfffePlease wait a moment...
+Saving.\xfffeDon't turn off the power.
+The game has been saved.\xf000븂\x0001<
+Transfer more Pokémon with the\xfffePokéShifter？
+The PokéShifter has shut down.\xfffe\xfffePlease turn off your DS system.
+The other DS doesn't have enough\xfffespace in the PC storage boxes.\xf000븁\x0000
+To use the PokéShifter you must\xfffehave at least six free spaces\xfffein your PC storage boxes.\xf000븁\x0000
+Could not read game save data.\xf000븁\x0000
+Failed to communicate with the\xfffeother DS.\xf000븁\x0000
+Save data could not be written.\xf000븁\x0000
+The Pokémon you are about to send\xfffeover will be sent over PERMANENTLY!\xf000븁\x0000You cannot send them back.\xfffeAre you absolutely sure？
+ポケモンを もとのちほうに\xfffeかえしました\xf000븁\x0000
+Cannot read the save file.\xfffeThe data may be damaged or corrupt.\xf000븁\x0000
+The incorrect DS card is in\xfffeSlot 1.\xfffe\xfffePlease power on a DS with either\xfffePokémon Diamond, Pearl, Platinum,\xfffeHeart Gold, or Soul Silver\xfffein Slot 1.\xfffePlease restart the system.\xf000븁\x0000
+Yes
+No
 Ｌｖ．\xf000Ȃ\x0001\x0000
-タマゴは　ポケシフターで\xfffeつかまえることが　できません
-ひでんわざを　おぼえている　ポケモンは\xfffeポケシフターで　つかまえられません
-このポケモンは　ポケシフターで\xfffeつかまえられません
-この６ひきで　よろしいですか？
-オウ！\xf000븁\x0000この　ギザみみピチューは\xfffeもとの　ばしょに\xf000븀\x0000ステイさせたほうが　よさそうだ！\xf000븁\x0000このピチューは　ときわたりで\xfffeやってきた　ポケモンらしいね\xf000븁\x0000みたところ　この　ピチューは\xfffeセレビィと　いっしょに　ながい　じかん\xf000븀\x0000わたってきた　えいきょうが　からだに\xf000븀\x0000のこってる　みたいだ\xf000븁\x0000つれてくるのは　デンジャラス！\xfffeベリー　デンジャラスッ！\xf000븁\x0000もとの　ばしょに　いるほうが\xfffeピチューに　とっても　ベストだろう！
-もっている　どうぐは　バッグに\xfffeもどりますが　よろしいですか？
-バッグに　いっぱいの　どうぐは\xfffeきえてしまいますが　よろしいですか？
-ポケシフターを　しゅうりょうしますか？
-ポケモンを　６ひき　えらんで\xfffeタッチペンをつかって　みぎのわくに\xfffeスライドさせて　ください
-じかんないに　ポケモンを\xfffeぜんぶ　つかまえろ！
-デバッグROM\xfffeDP　Y\xfffePT　X\xfffeGS　A
+Eggs cannot be transferred using\xfffethe PokéShifter.
+Pokémon with HM moves cannot be\xfffetransferred using the PokéShifter.
+This Pokémon cannot be transferred\xfffeusing the PokéShifter.
+Send over these six Pokémon?
+オウ！\xf000븁\x0000この ギザみみピチューは\xfffeもとの ばしょに\xf000븀\x0000ステイさせたほうが よさそうだ！\xf000븁\x0000このピチューは ときわたりで\xfffeやってきた ポケモンらしいね\xf000븁\x0000みたところ この ピチューは\xfffeセレビィと いっしょに ながい じかん\xf000븀\x0000わたってきた えいきょうが からだに\xf000븀\x0000のこってる みたいだ\xf000븁\x0000つれてくるのは デンジャラス！\xfffeベリー デンジャラスッ！\xf000븁\x0000もとの ばしょに いるほうが\xfffeピチューに とっても ベストだろう！
+You can't send over Pokémon that\xfffeare holding items.  Reselect？
+バッグに いっぱいの どうぐは\xfffeきえてしまいますが よろしいですか？
+Are you finished using the\xfffePokéShifter?
+Using the stylus, slide up to six Pokémon\xfffeto the right side of the screen.
+Catch all the Pokémon before\xfffetime expires!
+Debug ROM\xfffeDP Y\xfffePT X\xfffeGS A
