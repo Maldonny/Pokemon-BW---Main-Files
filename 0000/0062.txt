@@ -63,11 +63,11 @@ Insignia de Gym
 Botão Y info
 Pokéshifter configuração
 Pokéshifter minigames
-It's always a good thing to save.\xfffePress the X-Button to open the\xfffemenu and tap "Save" to save.\xfffe\xfffePlease remember: Do not turn the\xfffeDS off, because if you do,\xfffeyour "Save data" might get\xfffecorrupted. That would be bad!
-When you want to delete your\xfffesaved game data, press the\xfffeB + UP + SELECT Buttons.\xfffe\xfffePlease remember that this can't be undone.\xfffe\xfffeThink about deleting your game\xfffebefore you do it!
-When you are in the main menu,\xfffeselect the 3rd option and press\xfffethe A Button to go to Mystery Gift.\xfffe・You can receive gifts via IR\xfffe・You can receive gifts via Wi-Fi\xfffe・You can receive gifts via Wireless\xfffe\xfffeTry this out and maybe something\xfffewill be added to your game!
-When you receive a gift, you\xfffecan go pick it up at any Pokémon-\xfffecenter building in any town.\xfffeTalk to the person with\xfffethe circle around him (Top Screen)\xfffeto recieve your gift.\xfffe\xfffeMake sure to save when you\xfffehave recieved your gift!
-Also, you can hold up to 12\xfffeMystery Wonder Cards.\xfffe\xfffeTo view all the cards you\xfffehave received by tapping\xfffethe second option in the menu.\xfffeYou can sort, organize, delete\xfffeand view your cards there.
+É sempre uma boa coisa para se guardar.\xfffePressione o botão B para abrir o\xfffemenu e clica em "Gravar".\xfffe\xfffeLembra-te: Não desligues\xfffea DS, porque se o fizeres,\xfffeos teus dados do "Gravar" podem ficar\xfffecorrompidos. Isso seria mau!
+Quando quiseres apagar os teus\xfffedados de jogos salvos, pressione os\xfffebotões B + CIMA + SELECT.\xfffe\xfffeLembra-te que isto não pode ser desfeito.\xfffe\xfffePensa sobre a exclusão do teu jogo\xfffeantes de fazê-lo!
+Quando estás no menu principal\xfffeseleciona a terceira opção e pressiona\xfffeo botão A para ir ao Mystery Gift.\xfffe・Podes receber presentes via IR\xfffe・Podes receber presentes via WI-FI\xfffe・Podes receber presentes via Wireless\xfffe\xfffeTenta fazer isso e talvez\xfffealgo seja adicionado ao teu jogo!
+Quando receberes um presente,\xfffepodes ir buscá-lo em qualquer \xfffeCentro Pokemon em qualquer cidade.\xfffeConverse com a pessoa com\xfffeo círculo em torno dele (Top Screen)\xfffepara rebeberes o presente.\xfffe\xfffeCertifica-te de gravar quando\xfffereceberes o presente!
+Além disso, podes armazenar até 12\xfffeMystery Wonder Cards.\xfffe\xfffePara ver todas as cartas que\xffferecebeste, toque\xfffena segunda opção do menu.\xfffePodes classificar, organizar, apagar\xfffee ver as cartas lá.
 Ｗｉ－Ｆｉや イベントかいじょうで\xfffeおこなわれる ポケモンしょうぶの\xfffeたいかいに さんかします。\xfffe\xfffeバトルたいかいについて くわしくは\xfffeタイトルメニューの\xfffe「バトルたいかい」にある\xfffe「せつめいを きく」を\xfffeかくにん してください。
 ユーザーとうろくの ほうほうや\xfffeバトルたいかいへの さんかのしかた\xfffeルールのかくにんなど\xfffeバトルたいかいについて くわしいことは\xfffe\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん してください。
 バトルたいかいには\xfffeゲームのなかの パソコンにある\xfffe「バトルボックス」に とうろくされている\xfffeポケモンが さんかします。\xfffe\xfffeいちど とうろくすると たいかいちゅうは\xfffeバトルボックスを へんこうできませんので\xfffeとうろくするまえに じっくりかんがえて\xfffeポケモンを えらんで ください。
