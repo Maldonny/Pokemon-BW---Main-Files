@@ -1,68 +1,68 @@
-Informações básicas
-Como combater?
+Informações Básicas
+Como lutar uma batalha?
 C-Gear informações
 Sobre o menu
 Sobre batalhas
-Sobre estatísticas
-Sobre controlos
-Gravar o seu jogo
-Excluir save
+Sobre estatisticas
+Sobre controles
+Salvando seu jogo
+Apagando seu save
 Mystery Gift
-Torneio de Batalha
+Batalha em Torneio
 Pokémon Global Link
 Game Sync
-Configurações Wi-Fi 
+Configurações Wi-Fi
 Testar Microfone
 Pokémon
-O PC Pokémon 
-Caixa de batalha
-Princípios da troca de Pokémon
-Guia de Troca de Pokemon
+O PC Pokémon
+Battle Box
+Troca de Pokémon
+Guia de Trocas de Pokémon
 Batalha Simples
-Batalha Dupla
-Batalha Tripla
-Batalha Aleatória
+Batalha de Dupla
+Batalha de Trio
+Batalha Rotativa
 Mirakurushuta
 Union Room
-Wi-Fi Clube
+Nintendo WFC
 Global Terminal
 Friend Codes
 C-Gear
 C-Gear Log
-C-Gear Prédio
+C-Gear Building
 C-Gear Questionario
-C-Gear Inicio
+C-Gear はじめる
 C-Gear ほうこく
-IR (Infrared) conecção
+Conexão IR (Infravermelho)
 Game Sync
 High Link
 Deku Power
 Derudama
 A "Mochila"
-O "Cartão de Treinador"
+O "Trainer card"
 A "Pokédex"
-Capturar Pokémon
-Tipo de Concorrência
-"Psíquico" "Normal" "Especial"
+Capturando Pokémon
+Tipo matchup
+"Fisico" "Normal" "Especial"
 Desmaiado
 Envenenado
 Paralisado
-Adormecido
+Dormindo
 Congelado
 Queimado
 Confuso
 Infituated
 Pontos de Experiência
-A Evoluir
-"Impulsionado" e "rebaixado"
+Evoluindo
+"Aumentado" e "Abaixado"
 Pokérus
-A Cancelar
-Itens Ocultos
+Cancelando
+Items Ocultos
 Live Caster
-Crachás 
+Insignia de Gym
 Botão Y info
 Pokéshifter configuração
-Pokéshifter minijogos
+Pokéshifter minigames
 É sempre uma boa coisa para se guardar.\xfffePressione o botão B para abrir o\xfffemenu e clica em "Gravar".\xfffe\xfffeLembra-te: Não desligues\xfffea DS, porque se o fizeres,\xfffeos teus dados do "Gravar" podem ficar\xfffecorrompidos. Isso seria mau!
 Quando quiseres apagar os teus\xfffedados de jogos salvos, pressione os\xfffebotões B + CIMA + SELECT.\xfffe\xfffeLembra-te que isto não pode ser desfeito.\xfffe\xfffePensa sobre a exclusão do teu jogo\xfffeantes de fazê-lo!
 Quando estás no menu principal\xfffeseleciona a terceira opção e pressiona\xfffeo botão A para ir ao Mystery Gift.\xfffe・Podes receber presentes via IR\xfffe・Podes receber presentes via WI-FI\xfffe・Podes receber presentes via Wireless\xfffe\xfffeTenta fazer isso e talvez\xfffealgo seja adicionado ao teu jogo!
