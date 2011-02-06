@@ -1,45 +1,45 @@
-もう１つのＤＳに Pocket Monsters\xfffeDiamond, Pearl, Platinum,\xfffeHeart Gold, or Soul Silver\xfffeいずれかの ソフトを セットして\xfffeでんげんを いれた あとに\xfffeうえがめんを さんこうに して\xfffe『DS Download Play』から\xfffe『PokéShifter ID:\xf000Ȅ\x0001\x0000』を\xfffeえらんでください
-もう１つの ＤＳに\xfffeデータを おくっています
-もう１つの ＤＳで\xfffeポケモンを えらんでください
-PokéShifter きどうちゅう
-PokéShifter じっけんちゅう……
-じっけんデータを\xfffeじゅしん しています
-レポートに かきこんでいます\xfffeでんげんを きらないでください
-レポートに かきこみました\xf000븂\x0001<
-ポケシフターを\xfffeしゅうりょうしています\xf000븂\x0001<
-ポケシフターを ちゅうししますか？
-もう１つの ＤＳの\xfffeせつぞくに しっぱい しました\xf000븁\x0000
-もう１つの ＤＳの\xfffeけっていを まっています
+Please power on a DS with either\xfffePokémon Diamond, Pearl, Platinum,\xfffeHeart Gold, or Soul Silver\xfffein Slot 1.\xfffe\xfffeTurn your DS on and select\xfffeDS Download Play from the\xfffeMain Menu, and select\xfffePokéShifter ID:\xf000Ȅ\x0001\x0000\xfffewhen prompted.
+Uploading data to the other DS.\xfffePlease wait...
+On the other DS, please select\xfffethe Pokémon to be sent.
+Starting the PokéShifter...
+PokéShifter experiment in progress...
+Recieving experiment data.\xfffePlease wait...
+Saving...\xfffeDon't turn off the power.
+The game has been saved.\xf000븂\x0001<
+The PokéShifter has shut down.\xf000븂\x0001<
+Stop using the PokéShifter？
+Failed to communicate with the\xfffeother DS.\xf000븁\x0000
+Waiting for selections to be made\xfffeon the other DS...
 PokéShifter ID:\xf000Ȅ\x0001\x0000
-Pocket Monsters Black\xfffePokéShifter Program
-Pocket Monsters White\xfffePokéShifter Program
+Pokémon Black\xfffePokéShifter Program
+Pokémon White\xfffePokéShifter Program
 Transfer Machine ID:\xf000Ȅ\x0001\x0000
-Pocket Monsters Black\xfffeTransfer Machine Program
-Pocket Monsters White\xfffeTransfer Machine Program
-Sim
-Não
-もう１つのＤＳに Pocket Monsters\xfffeDiamond, Pearl, Platinum,\xfffeHeart Gold, or Soul Silver\xfffeいずれかの ソフトを セットして\xfffeでんげんを いれた あとに\xfffeしたがめんを さんこうに して\xfffe『DS Download Play』から\xfffe『Transfer Machine ID:\xf000Ȅ\x0001\x0000』を\xfffeえらんでください\xfffeBotão B: Cancelar
-Transfer Machine きどうちゅう！\xfffePor favor, aguarde um momento
+Pokémon Black\xfffeTransfer Machine Program
+Pokémon White\xfffeTransfer Machine Program
+Yes
+No
+Please power on a DS with either\xfffePokémon Diamond, Pearl, Platinum,\xfffeHeart Gold, or Soul Silver\xfffein Slot 1.\xfffe\xfffeTurn your DS on and select\xfffeDS Download Play from the\xfffeMain Menu, and select\xfffeTransfer Machine ID:\xf000Ȅ\x0001\x0000\xfffewhen prompted.\xfffe\xfffePress the B Button to cancel.
+Starting the Transfer Machine!\xfffePlease wait...
 えいがのポケモンが \xf000Ȃ\x0001\x0000ひき います\xfffe\xf000Ȃ\x0001\x0000ひき すべてを\xf000븁\x0000ポケットモンスターブラックに\xfffeつれてきますが よろしいですか？
 えいがのポケモンが \xf000Ȃ\x0001\x0000ひき います\xfffe\xf000Ȃ\x0001\x0000ひき すべてを\xf000븁\x0000ポケットモンスターホワイトに\xfffeつれてきますが よろしいですか？
-ボックスに あきが ありません！\xfffeボックスを せいりしてください！\xf000븁\x0000
-てんそうマシンで\xfffeポケモンを てんそうちゅうです！\xfffeしばらく おまちください
+There is no space in your boxes!\xfffeFree some space and try again.\xf000븁\x0000
+The Transfer Machine is transferring\xfffeyour Pokémon!\xfffePlease wait...
 もっている どうぐは バッグに\xfffeもどりますが よろしいですか？
 バッグに いっぱいの どうぐは\xfffeきえてしまいますが よろしいですか？
-てんそうマシンで ポケモンを\xfffeつれてくるのを ちゅうし しますか？
-ポケモンの てんそうを\xfffeちゅうし します！\xf000븁\x0000
-えいがの ポケモンを \xf000Ȃ\x0001\x0000ひき\xfffeぶじに てんそうできました！\xf000븁\x0000てんそうした ポケモンは\xfffeボックスに はいりました！\xf000븁\x0000
+Stop using the\xfffeTransfer Machine？
+The Transfer Machine has been\xfffeshut down!\xf000븁\x0000
+\xf000Ȃ\x0001\x0000 has beenxfffetransferred successfully!\xf000븁\x0000The Pokémon was transffered\xfffeto a Box in your PC!\xf000븁\x0000
 ロックカプセルが みつかりました。\xfffeロックカプセルを ひきとりますか？
 てんそうマシンで\xfffeロックカプセルを てんそうちゅうです！\xfffeしばらく おまちください
 ロックカプセルを\xfffeぶじに てんそうできました！\xf000븁\x0000てんそうした ロックカプセルは\xfffeバッグの たいせつなものポケットに\xfffeはいりました！\xf000븁\x0000
-レポートに かきこんでいます\xfffeでんげんを きらないでください
-てんそうマシンの\xfffeさぎょうが おわりました\xfffeもう１つの ＤＳの\xfffeでんげんを きってください\xf000븁\x0000
+Saving...\xfffeDon't turn off the power.
+The Transfer Machine has shut down.\xfffePlease power off the other DS.\xf000븁\x0000
 ひでんわざを おぼえている\xfffeポケモンを てんそうマシンで\xfffeつれてくる ことが できません！\xf000븁\x0000おぼえていない ポケモンを\xfffe\xf000Ȃ\x0001\x0000ひき つれてきます！\xf000븁\x0000
 ロックカプセルは すでに\xfffeうけとっています\xf000븁\x0000
-セーブに しっぱいしました\xfffeてんそうマシンを しゅうりょうします\xf000븁\x0000
-レポートに かきこみました\xf000븁\x0000
-てんそうできる ものが \xfffeありませんでした\xf000븁\x0000
-ただしいソフトが \xfffeセットされていません\xfffeてんそうマシンを しゅうりょうします\xf000븁\x0000
-てんそうマシンを ちゅうししますか？
-Initialize\xfffeDS Wireless Connection?
-レポートを よみこむことが\xfffeできませんでした\xfffeレポートが かかれていないか\xfffeこわれている かのうせいがあります\xf000븁\x0000てんそうマシンを しゅうりょうします\xf000븁\x0000
+Unable to save.\xfffeShutting down Transfer Machine.\xf000븁\x0000
+The game has been saved.\xf000븁\x0000
+There was nothing that\xfffecould be transferred.\xf000븁\x0000
+The incorrect DS card is in\xfffeSlot 1.\xfffeShutting down Transfer Machine...\xf000븁\x0000
+Stop using the\xfffeTransfer Machine?
+Launch\xfffeDS Wireless Communications?
+Cannot read the save file.\xfffeThe data may be damaged or corrupt.\xfffeShutting down Transfer Machine.\xf000븁\x0000
