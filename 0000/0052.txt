@@ -1,45 +1,47 @@
-Voltar
-ふたりで たいせん
-４にんで たいせん
-Batalha Simples
-Batalha  Dupla
-Batalha em Trio
-たいせん あいてと\xfffeせきがいせんつうしんを してください
-パートナーとなる あいてと\xfffeせきがいせんつうしんを してください
-リーダーに なりました！
-たいせん あいての リーダーと\xfffeせきがいせんつうしんを してください
-Aguarde um momento.
+﻿Battle
+Trade
+Back
+Battle For Two
+Battle For Four
+Single Battle
+Double Battle
+Triple Battle
+Please begin IR communication\xfffewith your battle partner.
+Please begin IR communication\xfffewith your trade partner.
+Became the leader!
+Please begin IR communication\xfffewith your battle leader.
+Please wait a moment.
 Friend Code
-Sentimento\xfffeverificar
-ちゅうだんしますか？
-こうかんする あいてと\xfffeせきがいせんつうしんを してください
-Trocar Pokémon
-Segurar
-こうかんしますか？
-Ｌｖ．\xf000Ȃ\x0001\x0000
-しゅうりょうしますか？
-こうかんしました
-しばらく おまちください
-あそぶないようが ちがったので\xfffeさいしょに もどります
-ここまでの かつやくを\xfffeポケモンレポートに かきこみますか？
-Sim
-Não
-ポケモンレポートに かきこんでいます\xfffeでんげんを きらないでください
-こうかんを かいしします\xfffeしばらく おまちください
-たいせんを かいしします\xfffeしばらく おまちください
-ローテーションバトル
-ともだちコードの こうかん あいてと\xfffeせきがいせんつうしんを してください
-ともだちリストが いっぱいです\xfffeともだちを とうろく できません
-\xf000봂\x0000とうろくにんずう\xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000／３２
-Decisão
-この にんずうで よろしいですか？
-さんかする メンバー ぜんいんと\xfffeせきがいせんつうしんを してください
-えんもくを きめた リーダーと\xfffeせきがいせんつうしんを してください
-\xf000Ȁ\x0001\x0000にんと つうしんちゅう\xfffe けっていで すすむ
-A Caixa de Batalha
-てもちで たたかう
-ともだちリストに\xfffeとうろく しました！
-ともだちリストを\xfffeこうしん しました！
-こうかんには てもちの ポケモンが\xfffe２ひき いじょう ひつようです
-すでに べつの ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000レポートが かけません！\xf000븁\x0000くわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000ごらんください
-いっしょに あそぶ ともだちと\xfffeせきがいせんつうしんを してください
+Feeling\xfffeCheck
+Quit?
+Please begin IR communication\xfffewith your trade partner.
+Pokémon Trade
+Party
+Trade?
+Lv.\xf000Ȃ\x0001\x0000
+Finish?
+Traded.
+Please wait a moment.
+Your play contents differ,\xfffeso you will be returned to the start.
+Save your progress thus far?
+Yes
+No
+Saving the game.\xfffePlease don't turn off the power.
+Starting trade.\xfffePlease wait.
+Starting battle.\xfffePlease wait.
+Rotation Battle
+Please begin IR communication with\xfffeyour Friend Code trade partner.
+Your Friend List is full.\xfffeYou cannot record any more friends.
+\xf000봂\x0000Registered: \xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000／３２
+Decision
+Is this nunber of members okay?
+Please begin IR communication\xfffewith all musical participants.
+Please begin IR communication\xfffewith your musical leader.
+Connecting with \xf000Ȁ\x0001\x0000\xfffe Confirm to continue
+Fight with Battle Box
+Fight with Party
+Recorded on Friend List!
+Friend List updated!
+You need two or more\xfffePokémonto trade. 
+There is already\xfffeanother save file written,\xf000븀\x0000so you could not save!\xf000븁\x0000For details,\xfffeplease consult the\xfffeinstruction manual.
+Please begin IR communication with\xfffethe friend you wish to play with.
