@@ -1,67 +1,67 @@
-Basic information
-How to fight a battle?
-C-Gear information
-About the menu
-About battles
-About statistics
-About controls
-Saving your game
-Deleting your save
+Informações Básicas
+Como lutar uma batalha?
+C-Gear informações
+Sobre o menu
+Sobre batalhas
+Sobre estatisticas
+Sobre controles
+Salvando seu jogo
+Apagando seu save
 Mystery Gift
-Battle tournament
+Batalha em Torneio
 Pokémon Global Link
 Game Sync
-Wi-Fi Settings
-Microphone Test
+Configurações Wi-Fi
+Testar Microfone
 Pokémon
-The Pokémon PC
+O PC Pokémon
 Battle Box
-Trading Pokémon basics
-Trading Pokémon guide
-Single battle
-Double battle
-Triple battle
-Rotation battle
+Troca de Pokémon
+Guia de Trocas de Pokémon
+Batalha Simples
+Batalha de Dupla
+Batalha de Trio
+Batalha Rotativa
 Mirakurushuta
 Union Room
-Wi-Fi Club
+Nintendo WFC
 Global Terminal
 Friend Codes
 C-Gear
 C-Gear Log
 C-Gear Building
-C-Gear Questionnaire
+C-Gear Questionario
 C-Gear はじめる
 C-Gear ほうこく
-IR (Infrared) Connection
+Conexão IR (Infravermelho)
 Game Sync
 High Link
 Deku Power
 Derudama
-The "Bag"
-The "Trainer card"
-The "Pokédex"
-Catching Pokémon
-Type matchup
-"Physical" "Normal" "Special"
-Fainted
-Poisoned
-Paralysis
-Asleep
-Frozen
-Burned
-Confused
+A "Mochila"
+O "Trainer card"
+A "Pokédex"
+Capturando Pokémon
+Tipo matchup
+"Fisico" "Normal" "Especial"
+Desmaiado
+Envenenado
+Paralisado
+Dormindo
+Congelado
+Queimado
+Confuso
 Infituated
-Experience Points
-Evolving
-"Boosted" and "Lowered"
+Pontos de Experiência
+Evoluindo
+"Aumentado" e "Abaixado"
 Pokérus
-Canceling
-Hidden items
+Cancelando
+Items Ocultos
 Live Caster
-Gym badges
-Y-Button info
-Pokéshifter setup
+Insignia de Gym
+Botão Y info
+Pokéshifter configuração
 Pokéshifter minigames
 It's always a good thing to save.\xfffePress the X-Button to open the\xfffemenu and tap "Save" to save.\xfffe\xfffePlease remember: Do not turn the\xfffeDS off, because if you do,\xfffeyour "Save data" might get\xfffecorrupted. That would be bad!
 When you want to delete your\xfffesaved game data, press the\xfffeB + UP + SELECT Buttons.\xfffe\xfffePlease remember that this can't be undone.\xfffe\xfffeThink about deleting your game\xfffebefore you do it!
