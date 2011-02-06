@@ -7,8 +7,8 @@ Ler
 Apagar
 Dar
 Cancelar
-O que gostarias de fazer com o correio do \xf000Ā\x0001\x0000's\xfffe?
-A mensagem vai ser perdida.\xfffeEstá bem assim?
+O que gostarias de fazer com o correio do \xf000Ā\x0001\x0000?
+A mensagem vai ser perdida.\xfffeTem certeza?
 A mensagem foi apagada.
 Deixar o Pokémon ficar com o correio?
 A mensagem de correio foi apagada\xfffee foi colocado na mochila.
