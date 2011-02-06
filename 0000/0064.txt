@@ -1,7 +1,7 @@
-ロードちゅう……\xfffePor favor, aguarde um momento
+﻿ロードちゅう……\xfffeしばらく おまちください
 ただしい ソフトが ささっていません\xfffeでんげんをきり ただしい ソフトを\xfffeさしてから てんそうマシンを\xfffeきどうしなおして ください
-レポートに かきこんでいます\xfffeでんげんを きらないでください
-レポートに かきこみました
+Salvando o jogo.\xfffeNão desligue o console.
+O jogo foi salvo.
 てんそうマシンを しゅうりょうします\xfffeでんげんを きって\xfffeしゅうりょうしてください
 データの よみこみに\xfffeしっぱい しました\xfffeてんそうマシンを しゅうりょうします
 もう１つの ＤＳの\xfffeせつぞくに しっぱい しました\xf000븁\x0000
