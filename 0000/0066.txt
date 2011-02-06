@@ -1,47 +1,47 @@
-のこりじかん \xf000ȁ\x0001\x0000ふん\xfffeあと \xf000ȁ\x0001\x0001かい
-のこりじかん \xf000ȁ\x0001\x0000ふん\xfffeあと \xf000ȁ\x0001\x0001にん
-\xf000Ā\x0001\x0000に はなしかけて もらい\xfffe「\xf000Đ\x0001\x0001」を あたえよ！
-\xf000Ā\x0001\x0000に じぶんから はなしかけ\xfffe「\xf000Đ\x0001\x0001」を あたえよ！
-\xf000Ā\x0001\x0000に たたかいを いどめ！\xfffeてもち ２ひき レベルは \xf000Ȃ\x0001\x0001フラット
-たたかってる \xf000Ā\x0001\x0000に はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ
-たたかってる \xf000Ā\x0001\x0000に はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ
-たたかってる \xf000Ā\x0001\x0000に はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ
-たたかってる \xf000Ā\x0001\x0000に はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ
-\xf000ĉ\x0001\x0000を ライモンシティの\xfffeベンチとベンチの あいだに かくせ！
-\xf000ĉ\x0001\x0000を ホドモエシティの\xfffeテントのうらの いえのまえにかくせ！
-\xf000ĉ\x0001\x0000を フキヨセシティの\xfffeおくの ひこうきの まえにかくせ！
-\xf000ĉ\x0001\x0000を セッカシティの\xfffeみんなが まわっていた ばしょにかくせ！
-\xf000ĉ\x0001\x0000を ソウリュウシティの\xfffeワープできない ゲートのまえにかくせ！
-\xf000ĉ\x0001\x0000を カゴメタウンにある\xfffeマンホールの うえに かくせ！
-\xf000ĉ\x0001\x0000を サザナミタウンの\xfffeふんすいの まえに かくせ！
-\xf000ĉ\x0001\x0000を ５ばんどうろ の\xfffeミュージシャンがいた まえに かくせ！
-\xf000ĉ\x0001\x0000を ６ばんどうろ の\xfffeたてにながい はしのまんなかに かくせ！
-\xf000ĉ\x0001\x0000を ７ばんどうろ の\xfffeタワーオブヘブン のまえに かくせ！
-\xf000ĉ\x0001\x0000を ８ばんどうろ の\xfffeどうろかんばんの まえに かくせ！
-\xf000ĉ\x0001\x0000を ９ばんどうろ の\xfffeゴミばこの てまえに かくせ！
-\xf000ĉ\x0001\x0000を １１ばんどうろ の\xfffeトレーラーの まえに かくせ！
-\xf000ĉ\x0001\x0000を １２ばんどうろ の\xfffeまんなかの かんばんに かくせ！
-\xf000ĉ\x0001\x0000を １３ばんどうろ の\xfffeくさむらのはえる しまの きにかくせ！
-\xf000ĉ\x0001\x0000を １４ばんどうろ の\xfffeすなはまと りくちの あいだに かくせ！
-\xf000ĉ\x0001\x0000を １５ばんどうろ の\xfffeゴミばこの てまえに かくせ！
-\xf000ĉ\x0001\x0000を １６ばんどうろ の\xfffeさくが きれているところに かくせ！
-\xf000ĉ\x0001\x0000を ライモンシティの\xfffeベンチとベンチの あいだに かくせ！
-\xf000ĉ\x0001\x0000を ホドモエシティの\xfffeテントのうらの いえのまえにかくせ！
-\xf000ĉ\x0001\x0000を フキヨセシティの\xfffeおくの ひこうきの まえにかくせ！
-\xf000ĉ\x0001\x0000を セッカシティの\xfffeみんなが まわっていた ばしょにかくせ！
-\xf000ĉ\x0001\x0000を ソウリュウシティの\xfffeワープできない ゲートのまえにかくせ！
-\xf000ĉ\x0001\x0000を カゴメタウンにある\xfffeマンホールの うえに かくせ！
-\xf000ĉ\x0001\x0000を サザナミタウンの\xfffeふんすいの まえに かくせ！
-\xf000ĉ\x0001\x0000を ５ばんどうろ の\xfffeミュージシャンがいた まえに かくせ！
-\xf000ĉ\x0001\x0000を ６ばんどうろ の\xfffeたてにながい はしのまんなかに かくせ！
-\xf000ĉ\x0001\x0000を ７ばんどうろ の\xfffeタワーオブヘブン のまえに かくせ！
-\xf000ĉ\x0001\x0000を ８ばんどうろ の\xfffeどうろかんばんの まえに かくせ！
-\xf000ĉ\x0001\x0000を ９ばんどうろ の\xfffeゴミばこの てまえに かくせ！
-\xf000ĉ\x0001\x0000を １１ばんどうろ の\xfffeトレーラーの まえに かくせ！
-\xf000ĉ\x0001\x0000を １２ばんどうろ の\xfffeまんなかの かんばんに かくせ！
-\xf000ĉ\x0001\x0000を １３ばんどうろ の\xfffeくさむらのはえる しまの きにかくせ！
-\xf000ĉ\x0001\x0000を １４ばんどうろ の\xfffeすなはまと りくちの あいだに かくせ！
-\xf000ĉ\x0001\x0000を １５ばんどうろ の\xfffeゴミばこの てまえに かくせ！
-\xf000ĉ\x0001\x0000を １６ばんどうろ の\xfffeさくが きれているところに かくせ！
-\xf000Ā\x0001\x0000に \xf000ĉ\x0001\x0001を\xfffeおかいどくな ねだんで かってもらえ！
+Time Remaining: \xf000ȁ\x0001\x0000 minutes\xfffeあと \xf000ȁ\x0001\x0001かい
+Time Remaining: \xf000ȁ\x0001\x0000 minutes\xfffeあと \xf000ȁ\x0001\x0001にん
+Have \xf000Ā\x0001\x0000 talk to you and grant the\xfffeExit Power: \xf000Đ\x0001\x0001!
+Talk to \xf000Ā\x0001\x0000 and give the\xfffeExit Power: \xf000Đ\x0001\x0001!
+Challenge \xf000Ā\x0001\x0000 to a\xfffeLv. \xf000Ȃ\x0001\x0001 Flat Battle! (2 Pokémon each)
+Talk to \xf000Ā\x0001\x0000 during/after battle\xfffeand give Exit Power:Battle HP Restore.
+Talk to \xf000Ā\x0001\x0000 during/after battle\xfffeand give Exit Power:Battle HP Restore.
+Talk to \xf000Ā\x0001\x0000 during/after battle\xfffeand give Exit Power:Battle HP Restore.
+Talk to \xf000Ā\x0001\x0000 during/after battle\xfffeand give Exit Power:Battle HP Restore.
+Hide a \xf000ĉ\x0001\x0000 between two benches \xfffein Raimon City!
+Hide a \xf000ĉ\x0001\x0000 behind the tent in\xfffefront of a house in Hodomoe City!
+Hide a \xf000ĉ\x0001\x0000 in the back of a plane\xfffein Fukiyose City！
+Hide a \xf000ĉ\x0001\x0000 near a grouping\xfffeof people in Sekka City!
+Hide a \xf000ĉ\x0001\x0000 at a gate with\xfffeno portal in Souryuu City!
+Hide a \xf000ĉ\x0001\x0000 on top of a\xfffemanhole in Kagome Town!
+Hide a \xf000ĉ\x0001\x0000 in front of a\xfffefountain in Sazanami Town!
+Hide a \xf000ĉ\x0001\x0000 in front of a\xfffemusician on Route 5!
+Hide a \xf000ĉ\x0001\x0000 in the middle of\xfffea long bridge on Route 6!
+Hide a \xf000ĉ\x0001\x0000 near the Tower\xfffeof Heaven on Route 7!
+Hide a \xf000ĉ\x0001\x0000 in front of a\xfffesign on Route 8!
+Hide a \xf000ĉ\x0001\x0000 in front of a\xfffetrash can on Route 9!
+Hide a \xf000ĉ\x0001\x0000 in front of a \xfffetrailer on Route 11!
+Hide a \xf000ĉ\x0001\x0000 near a sign\xfffein the middle of Route 12!
+Hide a \xf000ĉ\x0001\x0000 near a grass\xfffesurrounded tree on Route 13!
+Hide a \xf000ĉ\x0001\x0000 on land between\xfffethe beaches on Route 14!
+Hide a \xf000ĉ\x0001\x0000 in front of a\xfffetrash can on Route 15!
+Hide a \xf000ĉ\x0001\x0000 near an area\xfffewith no fence on Route 16！
+Hide a \xf000ĉ\x0001\x0000 between two benches \xfffein Raimon City!
+Hide a \xf000ĉ\x0001\x0000 behind the tent in\xfffefront of a house in Hodomoe City!
+Hide a \xf000ĉ\x0001\x0000 in the back of a plane\xfffein Fukiyose City！
+Hide a \xf000ĉ\x0001\x0000 near a grouping\xfffeof people in Sekka City!
+Hide a \xf000ĉ\x0001\x0000 at a gate with\xfffeno portal in Souryuu City!
+Hide a \xf000ĉ\x0001\x0000 on top of a\xfffemanhole in Kagome Town!
+Hide a \xf000ĉ\x0001\x0000 in front of a\xfffefountain in Sazanami Town!
+Hide a \xf000ĉ\x0001\x0000 in front of a\xfffemusician on Route 5!
+Hide a \xf000ĉ\x0001\x0000 in the middle of\xfffea long bridge on Route 6!
+Hide a \xf000ĉ\x0001\x0000 near the Tower\xfffeof Heaven on Route 7!
+Hide a \xf000ĉ\x0001\x0000 in front of a\xfffesign on Route 8!
+Hide a \xf000ĉ\x0001\x0000 in front of a\xfffetrash can on Route 9!
+Hide a \xf000ĉ\x0001\x0000 in front of a \xfffetrailer on Route 11!
+Hide a \xf000ĉ\x0001\x0000 near a sign\xfffein the middle of Route 12!
+Hide a \xf000ĉ\x0001\x0000 near a grass\xfffesurrounded tree on Route 13!
+Hide a \xf000ĉ\x0001\x0000 on land between\xfffethe beaches on Route 14!
+Hide a \xf000ĉ\x0001\x0000 in front of a\xfffetrash can on Route 15!
+Hide a \xf000ĉ\x0001\x0000 near an area\xfffewith no fence on Route 16！
+Have \xf000Ā\x0001\x0000 buy a \xf000ĉ\x0001\x0001\xfffeat a "discounted" price!
 ー
