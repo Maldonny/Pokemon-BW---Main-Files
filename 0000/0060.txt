@@ -1,6 +1,6 @@
 Confirmar
 Sair
 Por favor introduza uma frase ou palavra.
-Parar de dar o correio ao \xfffePokémon?
+Parar de dar o correio ao\xfffePokémon?
 Sim
 Não
