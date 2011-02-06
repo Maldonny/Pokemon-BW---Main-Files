@@ -1,9 +1,9 @@
-Nenhum
+﻿Vários
 Estudante
-Assalariado
+Office Worker
 Criador
-じえいぎょう
-こうむいん
-しゅふ
-げいじゅつか
-フリーター
+Self-Employed
+Govt. Official
+Dona de casa 
+Artista
+Job-Hopper
