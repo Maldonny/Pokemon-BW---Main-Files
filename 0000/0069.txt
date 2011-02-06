@@ -1,43 +1,43 @@
-\xf000Ā\x0001\x0000の ハイルツリー
-ミッションを うける
-デルパワーを うけとる
-じょうたいを みる
-A missão já está a\xfffeser executada
-ハイルツリーのごうけいＬｖ： \xf000Ȃ\x0001\x0000
+\xf000Ā\x0001\x0000's High Link
+Missions
+Set Exit Power
+High Link Status
+Mission already completed.
+High Link Ｌｖ： \xf000Ȃ\x0001\x0000
 あんこくのハイルツリー
-レベルバランス
-◆ホワイトＬｖ： \xf000ȃ\x0001\x0000
-◇ブラックＬｖ： \xf000ȃ\x0001\x0000
-つかえるデルパワー  「\xf000ȃ\x0001\x0000こ」
-ハイリンクにいたじかん  「\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001」
-たっせいしたミッション  「\xf000Ȅ\x0001\x0000かい」
-ハイルツリーのじょうたい
-ミッションを かいしする
-ミッションを じっしちゅう
-ミッションを かいし します！\xf000븂\x0001Z
-すでに べつの ミッションが\xfffeかいしされて います
-６つの ミッションから\xfffe１つ えらんでください
-ミッションを えらんでください
-せかいが３つ つながっているときは\xfffeこのミッションを うけられません
-ぼうけんしゃが ハイリンクにいるので\xfffeミッションを うけることが できません
-ミッションを えらぶことで\xfffeあいてを たすけることが できます\xf000븁\x0000まず はじめに このなかから\xfffe『サポート ミッション』を えらび\xf000븀\x0000ミッションを かいしして ください
-べつの ミッションを\xfffeえらんで います\xf000븁\x0000まずは 『サポート ミッション』を\xfffeえらんで かいしして ください
-つかう デルダマの かず
+Level Balance
+◆WhiteＬｖ： \xf000ȃ\x0001\x0000
+◇BlackＬｖ： \xf000ȃ\x0001\x0000
+Derudama:    \xf000ȃ\x0001\x0000 
+Time in High Link:   \xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001 
+Missons Completed:   \xf000Ȅ\x0001\x0000 
+High Link Status
+Begin Mission
+Mission In Progress
+Mission Start! \xf000븂\x0001Z
+A mission has already been\xfffestarted.
+Choose a mission from one of the\xfffesix mission types.
+Please select a mission.
+You can't do this mission while\xfffethree worlds are connected.
+There is someone else in the High Link.\xfffeIt isn't possible to recieve a mission.
+It's possible to help your partner\xfffeby choosing a mission.\xf000븁\x0000Each mission has different\xfffeobjectives and rewards.\xf000븀\x0000Try selecting a Support Mission.
+You selected another mission type.\xf000븁\x0000Please select a Support Mission.
+Spend Derudama
 \xf000ȃ\x0001\x0000こ
 はっせいじかん
 \xf000ȃ\x0001\x0000ふん
 デルパワー
 ー
-Sim
-Não
-このデルパワー を\xfffeハイルツリーから うけとりますか？
-ポイントが たりません
-うけとれる デルパワー
-『\xf000Ĝ\x0001\x0000』 を\xfffeハイルツリーから うけとった！\xf000븁\x0000うけとった『\xf000Ĝ\x0001\x0000』を\xfffeＣギアに とうろくした！
-パワーをうけとる
-ハイルツリーから うけとる\xfffeデルパワーを えらんでください
-いま うけとっている デルパワー
-デルパワーは まだ うけとっていません
-１かい／デルダマ\xf000ȃ\x0001\x0000こ
+Yes
+No
+Recieve this Exit Power from the\xfffeHigh Link?
+Not enough Derudama.
+Exit Powers
+Set Exit Power: \xf000Ĝ\x0001\x0000 and\xffferegistered it to your C-Gear!\xf000븁\x0000To use it, select it from the\xfffeExit Power menu on your C-Gear.
+Recieve Exit Power
+Please choose the Exit Power\xfffeto recieve from the High Link.
+Set Exit Powers
+No Exit Powers in use currently.
+Each use costs \xf000ȃ\x0001\x0000 Derudama
 \xf000봂\x0000◆ ホワイトＬｖ：\xf000Ȃ\x0001\x0000 でうけとれます ◆\xfffe\xfffeいまのＬｖ\xfffe◇ブラックＬｖ：\xf000Ȃ\x0001\x0002   ◆ホワイトＬｖ：\xf000Ȃ\x0001\x0001
 \xf000봂\x0000◇ ブラックＬｖ：\xf000Ȃ\x0001\x0000 でうけとれます ◇\xfffe\xfffeいまのＬｖ\xfffe◇ブラックＬｖ：\xf000Ȃ\x0001\x0002   ◆ホワイトＬｖ：\xf000Ȃ\x0001\x0001
