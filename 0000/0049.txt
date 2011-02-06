@@ -1,4 +1,4 @@
-O \xf000Ā\x0001\x0000 Sentiu-se classificado.
+O \xf000Ā\x0001\x0000 foi classificado.
 Classificar
 Nome
 Pontuação
