@@ -1,6 +1,6 @@
 －－－－－－－－－－
-Lugar Misterioso
-Lugar Distante
+Local Misterioso
+Local Distante
 \xf000Ā\x0001\x0000の\xf000ą\x0001\x0001
 Vila de Kanoto 
 Vila de Karakusa
@@ -38,7 +38,7 @@ Armazenamento Frio
 Caverna da Pedra Trovão
 Mt. Neji
 Torre Ryuurasen
-Estrada da Vitória
+Rota da Vitória
 Vila Kagome
 Vila Sazanami
 Vila Kanawa
