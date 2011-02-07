@@ -1,24 +1,24 @@
 ＧＡＭＥ ＳＹＮＣ
-Ｗｉ－Ｆｉせってい
-ゲームシンクで あそぶための \xfffeデータをつくっても よろしいですか？
-A guardar... \xfffePor favor, Aguarde
-Sim
-Não
-レポートに かきこんでいます\xfffePor favor, aguarde um momento
-おてもとの パソコンから\xfffeポケモングローバルリンクの\xfffeホームページに アクセスして\xfffeうえの ゲームシンクＩＤコードを\xfffeにゅうりょくすると ゲームシンクの\xfffeせっていが おこなえます\xfffe\xfffehttp://www.pokemon-gl.com/
-ゲームシンクＩＤコードを\xfffeはっこうしました\xfffe\xfffeうえのゲームシンクＩＤコード は\xfffeゲームかいしじの タイトルメニュー\xfffeゲームシンクせっていから\xfffeみなおすことが できます\xf000븁\x0000
-おてもとのパソコンから\xfffeポケモングローバルリンクの\xfffeホームページに アクセスして\xfffeうえのゲームシンクＩＤコードを\xfffeにゅうりょくすると ゲームシンクの\xfffeせっていが おこなえます\xfffe\xfffehttp://www.pokemon-gl.com/
-ゲームシンクＩＤコード
-ゲームシンクＩＤコードを\xfffeレポートに かきこみました
-サーバーでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０１）
-サーバーでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０２）
-つうしんでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０３）
-つうしんでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０４）
-サーバーでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０５）
-ごりようの サービスは\xfffeしゅうりょう いたしました\xfffe（エラーコード：１３２０６）
-つうしんでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０７）
-サーバーでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０８）
-つうしんでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０９）
-サーバーでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２１０）
-サーバーが こんざつ しています\xfffeせつぞく に しっぱいしました\xfffeじかんを おいて さいど\xfffeおためしください\xfffe（エラーコード：１３２１１）
-サーバーは げんざい\xfffeメンテナンスちゅうです\xfffeメンテナンスの しょうさいは\xfffeポケモングローバルリンクの\xfffeウェブサイトをごらんください\xfffehttp://www.pokemon-gl.com/\xfffe（エラーコード：１３２１２）
+Wi-Fi Settings
+Is it okay to create new Game Sync\xfffedata?
+Saving... \xfffeDon't turn off the power.
+Yes
+No
+Saving... This may take a while.\xfffeDon't turn off the power.
+You may use an internet enabled PC\xfffeand register the above Game Sync\xfffeID code at\xfffehttp://www.pokemon-gl.com
+A Game Sync ID has been acquired.\xfffeIt is displayed above.\xfffe\xfffeYou may re-display the Game Sync ID\xfffeby selecting GL: Game Sync\xfffefrom the main menu.\xf000븁\x0000
+You may use an internet enabled PC\xfffeand register the above\xfffeGame Sync ID code at\xfffehttp://www.pokemon-gl.com
+Game Sync ID
+A Game Sync ID has been acquired.\xfffeYour save has been updated.
+An error occured on the game server.\xfffePlease try again later.\xfffe\xfffeIf the problem persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２０１）
+A communication error occured.\xfffePlease try again later.\xfffe\xfffeIf the problem, persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２０２）
+A communication error occured.\xfffePlease try again later.\xfffe\xfffeIf the problem, persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２０３）
+A communication error occured.\xfffePlease try again later.\xfffe\xfffeIf the problem, persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２０４）
+An error occured on the game server.\xfffePlease try again later.\xfffe\xfffeIf the problem persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２０５）
+ごりようの サービスは\xfffeしゅうりょう いたしました\xfffe（Error：１３２０６）
+A communication error occured.\xfffePlease try again later.\xfffe\xfffeIf the problem, persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２０７）
+An error occured on the game server.\xfffePlease try again later.\xfffe\xfffeIf the problem persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２０８）
+A communication error occured.\xfffePlease try again later.\xfffe\xfffeIf the problem, persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２０９）
+An error occured on the game server.\xfffePlease try again later.\xfffe\xfffeIf the problem persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２１０）
+The server is congested.\xfffeA connection could not be established.\xfffe\xfffePlease wait awhile and\xffftry again later.\xfffe（Error：１３２１１）
+The server is currently down for\xfffemaintenance.\xfffe\xfffeAdditional details are available\xfffeon the Global Link website.\xfffehttp://www.pokemon-gl.com/\xfffe（Error：１３２１２）
