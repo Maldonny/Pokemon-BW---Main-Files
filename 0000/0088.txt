@@ -1,4 +1,4 @@
-Irá esquecer o que está a dizer agora.\xfffeEstá bem assim??
+Irá esquecer o que está dizendo.\xfffeEstá bem assim??
 Pressione o botão A, depois fale\xfffepara o microfone.\xf000븁\x0000
 \xf000Ă\x0001\x0000 aprendeu uma nova fala!\xf000븁\x0000
 \xf000Ă\x0001\x0000 recusa-se a aprender uma nova fala.\xf000븁\x0000
