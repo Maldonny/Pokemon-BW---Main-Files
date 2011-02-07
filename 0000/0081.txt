@@ -1,4 +1,4 @@
-Qual é o teu nome?
+Qual é o seu nome?
 Nome do \xf000ā\x0001\x0000?
 Qual é o teu nome de caixa?
 Qual é o nome do teu rival?
