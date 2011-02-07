@@ -4,7 +4,7 @@ Estranho
 Recomendado
 Inteligente
 Decepcionado
-Atractivo
+Atrativo
 Triste
 Giro
 Fácil
@@ -29,11 +29,11 @@ Orgulho
 Agradável
 Lágrimas
 Ponto fraco
-Aldrabão
+LOL
 Feliz
-Activamente
+Ativamente
 Surpreendido
-Subtil
+Delicado
 Ansiedade
 Desejo
 Satisfação
